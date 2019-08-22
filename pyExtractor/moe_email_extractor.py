@@ -72,6 +72,7 @@ def waitList(base_url):
 
 #filter url function
 def parseUrl(urlStr):
+  
                     url = False                  
 
                     if "/fonts" in urlStr:    
@@ -167,24 +168,16 @@ def htmlPageRead(url,base_url):
       urlHtmlPageRead = response.read()
       urlText = urlHtmlPageRead.decode()          
     
-      print("Processing %s" % url)
-
-    except urllib.error.HTTPError as err:
-        if err.code == 404:
-          errMsg = "404 error for " + url
-          print(errMsg)
-          urlText = "<a>empty<a/>"        
-          badUrlReq = open("badUrlReq.txt", 'a')
-          badUrlReq.write(url + "\n")
-          badUrlReq.close()                                 
-        else:
-          errMsg = "unk error for " + url
-          print(errMsg)
-          urlText = "<a>empty<a/>"        
-          badUrlReq = open("badUrlReq.txt", 'a')
-          badUrlReq.write(url + "\n")
-          badUrlReq.close()          
-          
+      print("Processing %s" % url)      
+      
+    except error as e:
+        print(e)
+        print("moving to exception.txt")
+        exceptFile = open("exception.txt", 'a')        
+        exceptFile.write(str(e) + "\n" + url + "\n\n")                     
+        exceptFile.close()
+        urlText = ""
+            
     #Return a list of extracted emails (array)
     try:
       new_emails = re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+", urlText, re.I)
@@ -198,21 +191,19 @@ def htmlPageRead(url,base_url):
       procUrlFile.close()
     
     #str could be bin etc    
-    except type(urlText) != str:
+    except:
       #assign arrays, it could be called below
       new_emails = []
       urlht = []
       wwwRegTuple = []
       regTuple = []
+      urlText = ""
       
       #save url to file
-      contNotStrFile = open("contNotStr.txt", 'a')
+      print("problem with email extraction, moving url to extProb.txt")
+      contNotStrFile = open("extProb.txt", 'a')
       contNotStrFile.write(url + "\n")
-      contNotStrFile.close()   
-    
-    #str could be refrenced before assigned(if error request)
-    if not len(urlText):
-      urlText = ""         
+      contNotStrFile.close()            
     
     #save to file
     #open email.txt and append
@@ -297,12 +288,14 @@ def htmlPageRead(url,base_url):
 #get numOfUrlToProc from user
 if (getInst == "U" or getInst == "u"):  
   numOfUrlToProc = int(input("Enter number of urls you intend to process: "))
+  checkRobot = input("Would you like robot.txt to parse your urls, hit y for yes : ")
 
 #read the extrated.txt file 
 if os.stat("extrated.txt").st_size != 0 and (numOfUrlToProc < 1 or (getInst == "U" or getInst == "u") or (getInst == "F" or getInst == "f")):  
   extratedFile = open("extrated.txt", 'r')
   print("Reading extrated.txt file")
   for urlExt in extratedFile.readlines():
+   if urlExt != "\n":
     urlExt = urlExt.strip()
     extraced_urls.append(urlExt)
   extratedFile.close() 
@@ -337,6 +330,7 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
     print("Reading emails.txt file")
     emailFile = open("emails.txt", 'r')
     for emailExt in emailFile.readlines():
+     if emailExt != "\n":
       emailExt = emailExt.strip()
       emails.append(emailExt)
     emailFile.close()    
@@ -360,23 +354,21 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
         path = url[:url.rfind('/')+1] if '/' in parts.path else url
     
     #Check for robots.txt
-    if url:
+    #Handle possible network error, this is the first url request
+    if url and (checkRobot == "y" or checkRobot == "Y"):
       try:
         rp = urllib.robotparser.RobotFileParser()
         rp.set_url(robot_url)
         rp.read()
-      except urllib.error.URLError:
-        print("Can't verify CA moving to certfile.txt")
-        certFile = open("certfile.txt", 'a')
-        certFile.write(url + "\n")               
-        certFile.close()
-        url = "" 
+      
       except error as e:
-        print("exception moving to exception.txt")
-        certFile = open("exception.txt", 'a')
-        certFile.write(url + "\n")               
-        certFile.close()
+        print(e)
+        print("moving to exception.txt")
+        exceptFile = open("exception.txt", 'a')        
+        exceptFile.write(str(e) + "\n" + url + "\n\n")                     
+        exceptFile.close()
         url = "" 
+        numOfProcessedUrl = numOfProcessedUrl + 1
 
       #if crawling is not allowed in the website
       #move the url to robots.txt and robotArray(for easy parsing)
