@@ -8,8 +8,6 @@ https://www.imexdbusiness.com/xmlrpc.php
 https://www.imexdbusiness.com/feed/
 https://www.imexdbusiness.com/comments/feed/
 https://www.monsterinsights.com/
-https://developers.google.com/analytics/devguides/collection/analyticsjs/
-https://api.w.org/
 https://www.imexdbusiness.com/xmlrpc.php?rsd
 https://www.imexdbusiness.com/wp-includes/wlwmanifest.xml
 https://www.imexdbusiness.com/lp/
@@ -35,11 +33,6 @@ https://schema.org/WebPage
 https://schema.org/WPHeader
 https://schema.org/SiteNavigationElement
 https://schema.org/WPFooter
-https://player.vimeo.com/video/256737819?app_id=122963
-https://player.vimeo.com/video/256737819?app_id=122963
-https://player.vimeo.com/video/256737819?app_id=122963
-https://player.vimeo.com/video/256737819?app_id=122963
-https://wp-rocket.me
 http://ogp.me/ns#
 https://panjiva.com/info/deprecated_browser
 https://panjiva.com/info/deprecated_browser

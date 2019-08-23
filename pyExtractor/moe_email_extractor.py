@@ -177,8 +177,44 @@ def htmlPageRead(url,base_url):
         exceptFile.write(str(e) + "\n" + url + "\n\n")                     
         exceptFile.close()
         urlText = ""
-            
-    #Return a list of extracted emails (array)
+
+# create a beutiful soup for the html document
+    soup = BeautifulSoup(urlText, 'lxml')
+    
+    #Open url.txt file and append urls
+    urlFile = open("url.txt", 'a') 
+    extratedFile = open("extrated.txt", 'a')    
+    urlFilterFile = open("urlFilter.txt", 'a')
+
+    #check for urls with bs4
+    for anchor in soup.find_all("a"):
+         # extract link url from the anchor
+          link = anchor.attrs["href"] if "href" in anchor.attrs and anchor.attrs["href"].find("mailto") ==-1 and anchor.attrs["href"].find("tel") ==-1 and anchor.attrs["href"].find("#") ==-1  else ''
+          link = link.strip()
+          link = link.strip('\'"')
+
+          # resolve relative links
+          if link.startswith('/'):
+            link = base_url + link
+          if not link.startswith('http'):
+            if not link.startswith('https'):
+              link = path + link 
+
+          if link not in extraced_urls:
+            if parseUrl(link):
+              urlFilterFile.write(link + "\n")               
+            else:            
+              extraced_urls.append(link)
+              urlFile.write(link + "\n") #temporary storage
+              extratedFile.write(link + "\n") #permananent storage       
+          
+    #Close url files
+    urlFile.close()
+    extratedFile.close()
+    urlFilterFile.close()
+
+    #Use regex to extract url and emails      
+    #Return a list of extracted emails and urls(array)
     try:
       new_emails = re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+", urlText, re.I)
       urlht = re.findall(r"(http|ftp|ftps|https)://([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?", urlText, re.I)
@@ -203,8 +239,8 @@ def htmlPageRead(url,base_url):
       print("problem with email extraction, moving url to extProb.txt")
       contNotStrFile = open("extProb.txt", 'a')
       contNotStrFile.write(url + "\n")
-      contNotStrFile.close()            
-    
+      contNotStrFile.close()                
+
     #save to file
     #open email.txt and append
     if len(new_emails):
@@ -216,73 +252,54 @@ def htmlPageRead(url,base_url):
       emailFile.close()
     
     #get the array of tuple and convert it to array of string urls
+    #get the url thats starts with "http/https"
+    #strip the "http/https" and make it start with "www."
     while len(urlht):
       tupleUrl = urlht.pop(0)
       fulUrl = tupleUrl[1] + tupleUrl[2]
       fulUrl = fulUrl.strip()
       wwwRegList.append(fulUrl)
 
-    #check for www. url in wwwRegList
+    #get the array of tuple and convert it to array of string urls
+    #get the url thats starts with 'www'
+    #Compare with the ones that start with "http/https"(already stripped)
+    #this is because urls that start with "http/https" can also exist in "www." urls
     while len(regTuple):    
       tupleUrl = regTuple.pop(0)  
       fulUrl = tupleUrl[0] + '.' + tupleUrl[1] + tupleUrl[2]
       fulUrl = fulUrl.strip()
   
-      #save urls(www.url.com) file
-      if fulUrl not in wwwRegList and parseUrl(fulUrl):           
-        specialAtt = open("specialAtt.txt", 'a')
-        specialAtt.write(fulUrl + "\n")
-        specialAtt.close()
-      else:
-        filteredFile = open("filteredurl.txt", 'a')
-        filteredFile.write(fulUrl + "\n")
-        filteredFile.close()
-
-    # create a beutiful soup for the html document
-    soup = BeautifulSoup(urlText, 'lxml')
-    
-    #Open url.txt file and append urls
-    urlFile = open("url.txt", 'a') 
-    extratedFile = open("extrated.txt", 'a')    
-    
-    #check for urls with bs4
-    for anchor in soup.find_all("a"):
-         # extract link url from the anchor
-          link = anchor.attrs["href"] if "href" in anchor.attrs and anchor.attrs["href"].find("mailto") ==-1 and anchor.attrs["href"].find("tel") ==-1 and anchor.attrs["href"].find("#") ==-1  else ''
-          link = link.strip()
-          link = link.strip('\'"')
-
-          # resolve relative links
-          if link.startswith('/'):
-            link = base_url + link
-          if not link.startswith('http'):
-            if not link.startswith('https'):
-              link = path + link 
-
-          if link not in extraced_urls:
-            extraced_urls.append(link)
-            urlFile.write(link + "\n") #temporary storage
-            extratedFile.write(link + "\n") #permananent storage
- 
+      if fulUrl not in wwwRegList:
+        if fulUrl not in extraced_urls:
+          if parseUrl(fulUrl):                     
+            filteredFile = open("specialAttFilter.txt", 'a')
+            filteredFile.write(fulUrl + "\n")
+            filteredFile.close()
+          else:
+            specialAtt = open("specialAtt.txt", 'a')
+            specialAtt.write(fulUrl + "\n")
+            specialAtt.close()
           
-    #Close url files
-    urlFile.close()
-    extratedFile.close()
-
-    #increment number of processed urls
-    global numOfProcessedUrl
-    numOfProcessedUrl = numOfProcessedUrl + 1
-
+    #Compare regex extracted urls vs bs extracted urls (http(s) vs http(s))
     while len(wwwRegTuple):  
       tupleUrl = wwwRegTuple.pop(0)
       fulUrl = tupleUrl[0] + '://' + tupleUrl[1] + tupleUrl[2]
       fulUrl = fulUrl.strip()
 
       #save urls(http:// | https:// www.url.com) file
-      if fulUrl not in extraced_urls:   
-        specialAtt = open("specialAtt.txt", 'a')
-        specialAtt.write(fulUrl + "\n")
-        specialAtt.close()        
+      if fulUrl not in extraced_urls: 
+        if parseUrl(fulUrl):                     
+          filteredFile = open("specialAttFilter.txt", 'a')
+          filteredFile.write(fulUrl + "\n")
+          filteredFile.close()
+        else:
+          specialAtt = open("specialAtt.txt", 'a')
+          specialAtt.write(fulUrl + "\n")
+          specialAtt.close()
+        
+    #increment number of processed urls
+    global numOfProcessedUrl
+    numOfProcessedUrl = numOfProcessedUrl + 1        
 
 #Program start
 #get numOfUrlToProc from user
