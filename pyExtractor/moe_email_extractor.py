@@ -48,10 +48,10 @@ headerList = [
   'Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18',
 ]
 
-print("What kind of file do you want to extract.")
-getInst = input("hit 'U' for web urls or 'F' for local file(search.html) : ")
+getInst = input("What kind of file do you want to extract. \n\t hit 'U' for web urls or 'F' for local file(search.html) : ")
 
 readEmailPrimer = 1
+readProcPrimer = 1
 
 #Wait list
 #Add 3 mins wait for each domain
@@ -59,15 +59,17 @@ def waitList(base_url):
   now = datetime.datetime.now()
   twoMin = now.minute + 3
 
+  print("\t process successful")
+
   #minute cannot be greater than 59, 
   if twoMin < 59:
     exTime = now.replace(minute = twoMin)
     waiting.append(base_url)
     expTime.append(exTime)
-    print("wait")
+    print("\t wait (wait url domain) \n")
     updateWaitList()
   else:
-    print("sleep 30")
+    print("\t sleep 30 (delay url domain) \n")
     time.sleep(30)
 
 #filter url function
@@ -106,6 +108,10 @@ def parseUrl(urlStr):
                       url = True
                     elif ".JPG" in urlStr:    
                       url = True
+                    elif ".png" in urlStr:    
+                      url = True
+                    elif ".PNG" in urlStr:    
+                      url = True
                     elif ".gif" in urlStr:    
                       url = True
 
@@ -125,6 +131,8 @@ def parseUrl(urlStr):
                     elif "facebook" in urlStr:    
                       url = True
                     elif "instagram" in urlStr:    
+                      url = True
+                    elif "wordpress." in urlStr:    
                       url = True
 
                     elif "play.google" in urlStr:    
@@ -165,14 +173,13 @@ def htmlPageRead(url,base_url):
       headers = { 'User-Agent' : headerList[random.randrange(0, 9)]}
       request = urllib.request.Request(url, None, headers)
       response = urllib.request.urlopen(request)
-      urlHtmlPageRead = response.read()
-      urlText = urlHtmlPageRead.decode()          
-    
-      print("Processing %s" % url)      
+      urlText = response.read()
+      #urlHtmlPageRead = response.read()
+      #urlText = urlHtmlPageRead.decode()                         
       
     except error as e:
         print(e)
-        print("moving to exception.txt")
+        print("\t moving to exception.txt")
         exceptFile = open("exception.txt", 'a')        
         exceptFile.write(str(e) + "\n" + url + "\n\n")                     
         exceptFile.close()
@@ -185,22 +192,34 @@ def htmlPageRead(url,base_url):
     urlFile = open("url.txt", 'a') 
     extratedFile = open("extrated.txt", 'a')    
     urlFilterFile = open("urlFilter.txt", 'a')
+    urlEmailFile = open("urlEmail.txt", 'a')
+
 
     #check for urls with bs4
     for anchor in soup.find_all("a"):
-         # extract link url from the anchor
-          link = anchor.attrs["href"] if "href" in anchor.attrs and anchor.attrs["href"].find("mailto") ==-1 and anchor.attrs["href"].find("tel") ==-1 and anchor.attrs["href"].find("#") ==-1  else ''
+          # extract link url from the anchor and look email links that could be in url form        
+          link = anchor.attrs["href"] if "href" in anchor.attrs and anchor.attrs["href"].find("mailto") ==-1 and anchor.attrs["href"].find("tel") ==-1 and anchor.attrs["href"].find("@") ==-1 and anchor.attrs["href"].find("mail.") ==-1  else ''
           link = link.strip()
           link = link.strip('\'"')
+          
+          newLink = str(anchor.get('href'))
+          newLink = newLink.strip()
+          if link == '' and not newLink.startswith('#'):                        
+            print("\t Possible url email, moving url to urlEmail.txt")
+            urlEmailFile.write(newLink + '\n')           
 
           # resolve relative links
           if link.startswith('/'):
             link = base_url + link
+          elif link.startswith('#'):
+            link = link.strip('#')
+            link = base_url + link
+
           if not link.startswith('http'):
             if not link.startswith('https'):
               link = path + link 
 
-          if link not in extraced_urls:
+          if (link + "\n") not in extraced_urls:
             if parseUrl(link):
               urlFilterFile.write(link + "\n")               
             else:            
@@ -212,22 +231,35 @@ def htmlPageRead(url,base_url):
     urlFile.close()
     extratedFile.close()
     urlFilterFile.close()
+    urlEmailFile.close()
+
+    #This will run only once in the program, 
+    #delete processed.txt before using it for the new program
+    global readProcPrimer 
+    if os.stat("processed.txt").st_size != 0 and readProcPrimer == 1:
+      readProcPrimer = 0      
+      procUrlFile = open("processed.txt", 'w')
+      procUrlFile.write("")
+      procUrlFile.close
+    
+    #Save processed urls to file
+    procUrlFile = open("processed.txt", 'a')
+    procUrlFile.write(url + "\n")
+    procUrlFile.close()      
 
     #Use regex to extract url and emails      
     #Return a list of extracted emails and urls(array)
+    #possible error
+    #urlText should be a string(utf-8) else(error), 
+    #It could be binary or non utf-8 string (iso-notString)
     try:
+      urlText = urlText.decode()
       new_emails = re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+", urlText, re.I)
       urlht = re.findall(r"(http|ftp|ftps|https)://([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?", urlText, re.I)
       wwwRegTuple = re.findall(r"(http|ftp|ftps|https)://([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?", urlText, re.I)
       regTuple = re.findall(r"(www).([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?", urlText, re.I)
-
-      #get processed urls to file
-      procUrlFile = open("processed.txt", 'a')
-      procUrlFile.write(url + "\n")
-      procUrlFile.close()
-    
-    #str could be bin etc    
-    except:
+          
+    except:      
       #assign arrays, it could be called below
       new_emails = []
       urlht = []
@@ -236,7 +268,7 @@ def htmlPageRead(url,base_url):
       urlText = ""
       
       #save url to file
-      print("problem with email extraction, moving url to extProb.txt")
+      print("\t problem with email extraction, moving url to extProb.txt")
       contNotStrFile = open("extProb.txt", 'a')
       contNotStrFile.write(url + "\n")
       contNotStrFile.close()                
@@ -245,7 +277,7 @@ def htmlPageRead(url,base_url):
     #open email.txt and append
     if len(new_emails):
       emailFile = open("emails.txt", 'a') 
-      while len(new_emails) and new_emails[0] not in emails:
+      while len(new_emails) and (new_emails[0] + "\n") not in emails:
         get_email = new_emails.pop(0)
         emails.append(get_email)  
         emailFile.write(get_email + "\n")                     
@@ -256,9 +288,10 @@ def htmlPageRead(url,base_url):
     #strip the "http/https" and make it start with "www."
     while len(urlht):
       tupleUrl = urlht.pop(0)
-      fulUrl = tupleUrl[1] + tupleUrl[2]
-      fulUrl = fulUrl.strip()
-      wwwRegList.append(fulUrl)
+      if tupleUrl != "\n":
+        fulUrl = tupleUrl[1] + tupleUrl[2]
+        fulUrl = fulUrl.strip()
+        wwwRegList.append(fulUrl)
 
     #get the array of tuple and convert it to array of string urls
     #get the url thats starts with 'www'
@@ -269,8 +302,8 @@ def htmlPageRead(url,base_url):
       fulUrl = tupleUrl[0] + '.' + tupleUrl[1] + tupleUrl[2]
       fulUrl = fulUrl.strip()
   
-      if fulUrl not in wwwRegList:
-        if fulUrl not in extraced_urls:
+      if (fulUrl + "\n") not in wwwRegList:
+        if (fulUrl + "\n") not in extraced_urls:
           if parseUrl(fulUrl):                     
             filteredFile = open("specialAttFilter.txt", 'a')
             filteredFile.write(fulUrl + "\n")
@@ -287,7 +320,7 @@ def htmlPageRead(url,base_url):
       fulUrl = fulUrl.strip()
 
       #save urls(http:// | https:// www.url.com) file
-      if fulUrl not in extraced_urls: 
+      if (fulUrl + "\n") not in extraced_urls: 
         if parseUrl(fulUrl):                     
           filteredFile = open("specialAttFilter.txt", 'a')
           filteredFile.write(fulUrl + "\n")
@@ -299,13 +332,20 @@ def htmlPageRead(url,base_url):
         
     #increment number of processed urls
     global numOfProcessedUrl
-    numOfProcessedUrl = numOfProcessedUrl + 1        
+    numOfProcessedUrl = numOfProcessedUrl + 1   
+    
+    #return value, to avoid putting an unprocessed url in waitlist
+    if urlText == "":
+      return False
+    else:
+      return True     
 
 #Program start
 #get numOfUrlToProc from user
 if (getInst == "U" or getInst == "u"):  
   numOfUrlToProc = int(input("Enter number of urls you intend to process: "))
-  checkRobot = input("Would you like robot.txt to parse your urls, hit y for yes : ")
+  checkRobot = input("\nWould you like robot.txt to parse your urls, hit y for yes : ")
+  delay = input("\nWould you to use delay option, hit y for yes : ")
 
 #read the extrated.txt file 
 if os.stat("extrated.txt").st_size != 0 and (numOfUrlToProc < 1 or (getInst == "U" or getInst == "u") or (getInst == "F" or getInst == "f")):  
@@ -330,9 +370,11 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
   runTimeFile = open("runtime.txt", 'a')
 
   for urlLink in urlFile.readlines():
-    urlLink = urlLink.strip('\'"')
-    new_urls.append(urlLink)
-    runTimeFile.write(urlLink + "\n")
+    if urlLink != "\n":
+      urlLink = urlLink.strip('\'"')
+      new_urls.append(urlLink)
+      runTimeFile.write(urlLink + "\n")
+
   urlFile.close() 
   runTimeFile.close()
 
@@ -342,6 +384,8 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
   urlFile.close()
 
   #read email file and append to array
+  #readEmailPrimer is there to make sure the email.txt don't get read twice
+  #This option applies to url(u) alone and not file (f). thats why it's here
   if os.stat("emails.txt").st_size != 0 and readEmailPrimer == 1:
     readEmailPrimer = 0
     print("Reading emails.txt file")
@@ -357,7 +401,9 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
   while len(new_urls) and numOfProcessedUrl < numOfUrlToProc:    
     #Read a url and remove it from the array
     url = new_urls.pop() 
-    url = url.strip()       
+    url = url.strip()  
+
+    print("Processing %s" % url)      
 
     # extract base url to resolve relative links &    
     parts = urlsplit(url)
@@ -380,39 +426,48 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
       
       except error as e:
         print(e)
-        print("moving to exception.txt")
+        print("\t moving to exception.txt")
         exceptFile = open("exception.txt", 'a')        
-        exceptFile.write(str(e) + "\n" + url + "\n\n")                     
+        exceptFile.write("\t" + str(e) + "\n" + url + "\n\n")                     
         exceptFile.close()
         url = "" 
-        numOfProcessedUrl = numOfProcessedUrl + 1
 
       #if crawling is not allowed in the website
       #move the url to robots.txt and robotArray(for easy parsing)
       if not rp.can_fetch("*", base_url) and url:
-        print("Adding url to robot.txt")
-        robotFile = open("robot.txt", 'a')
-        robotFile.write(url + "\n")
-        robot.append(url)         
-        robotFile.close()
-        url = "" 
+        if url != "\n":
+          print("\t Adding url to robot.txt")
+          robotFile = open("robot.txt", 'a')
+          robotFile.write(url + "\n")
+          robot.append(url)         
+          robotFile.close()
+          url = "" 
 
     #if the website is already in waiting list
     #Move the url to the last queue
-    if base_url in waiting and url:      
-      urlFile = open("url.txt", 'a')
-      urlFile.write(url + "\n")
-      urlFile.close()
-      url = ""
-
+    if url and (delay == 'y' or delay == 'Y'):   
+      if base_url in waiting:   
+        urlFile = open("url.txt", 'a')
+        urlFile.write(url + "\n")
+        urlFile.close()
+        url = ""
+ 
+    #If url fails to process i.e if htmlPageRead() returns false, 
+    #put it to 10sec sleep before processing the next (if delay = yes)
+    #because the next could be the same failed url domain (e.g "www.moe.com & www.moe.com/fail" 1 could fail)
+    #if url doesnt fail i.e if htmlPageRead() returns true, use the 4mins wait    
     if url:
       #Process the website, save relative links and emails
-      htmlPageRead(url,base_url)
-      
-      #Put website to 3 mins wait
-      waitList(base_url)
-
-  if len(waiting):
+      if htmlPageRead(url,base_url) and (delay == 'y' or delay == 'Y'):  
+        #Put website to 3 mins wait
+        waitList(base_url)
+      elif (delay == 'y' or delay == 'Y'):
+        #goto 10sec sleep
+        print("\t sleep 10 (delay url domain) \n")
+        time.sleep(10)    
+  
+  #this will not work if delay != y because waiting list will be empty
+  if len(waiting) and (delay == 'y' or delay == 'Y'):
     updateWaitList()
 
 #process file option
@@ -440,7 +495,7 @@ if (getInst == "F" or getInst == "f"):
           if not link.startswith('https'):
             link = "https://" + link 
 
-        if link not in extraced_urls and link:
+        if (link + "\n") not in extraced_urls and link:
           extraced_urls.append(link)
           searchUrlFile.write(link + "\n")
           extratedFile.write(link + "\n")
@@ -448,9 +503,9 @@ if (getInst == "F" or getInst == "f"):
     #Read emails
     #Return a list of extracted emails (array)
     try:
-      emlStr = copiedFile.read()      
+      emlStr = copiedFile.read().decode()      
       search_emails = re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+", emlStr, re.I)
-    except type(emlStr) != str:
+    except:
       search_emails = []
     
     #save to file
