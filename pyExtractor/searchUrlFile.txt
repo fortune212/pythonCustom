@@ -28,12 +28,10 @@ https://www.europages.eu/%D1%84%D0%B8%D1%80%D0%BC%D0%B8/%D1%81%D0%B8%D1%80%D0%B5
 https://www.europages.co.uk/business-directory-europe.html
 http://promote-your-business.europages.com/EN/
 https://www.europages.co.uk/myEuropages/
-
 https://www.europages.co.uk/directory/pages/ShortLists.html
 https://www.europages.co.uk/myEuropages/yourProfile.html
 https://www.europages.co.uk/myEuropages/webmailDashboard.html
 https://www.europages.co.uk/myEuropages/home.html
-https://www.europages.co.uk/myEuropages/login.html?Event.disconnect=OK
 https://www.europages.co.uk/
 https://www.europages.co.uk/companies/Italy/cheese.html
 https://www.europages.co.uk/companies/Russia/cheese.html
@@ -268,10 +266,7 @@ https://www.europages.co.uk/DeliBelge-Evaporated-Milk/DANO-FOODDELIBELGE/cpid-53
 https://www.europages.co.uk/CERTIFICATION/KLBD-KOSHER-CERTIFICATION/cpid-5742566.html
 https://www.europages.co.uk/STAINLESS-STEEL-HYGIENIC-UNION/WUDI-KUNDE-METAL-PRODUCTS-CO-LTD/cpid-5675964.html
 http://corporate.europages.co.uk/news/
-https://www.facebook.com/Europages
-https://twitter.com/Europages
 https://www.linkedin.com/company/europages
-https://www.youtube.com/user/EUROPAGESVIDEO?feature=watch
 https://m.europages.co.uk/companies/cheese.html
 http://corporate.europages.co.uk/terms-and-conditions/
 http://corporate.europages.co.uk/terms-and-conditions/privacy/
@@ -286,8 +281,3 @@ https://www.visable.com/en_int/about-us
 https://www.visable.com/en_int/why-visable
 https://www.visable.com/en_int/about-us/press
 https://www.visable.com/en_int/career
-
-
-#start here
-
-

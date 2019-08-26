@@ -213,8 +213,8 @@ def regexExtract(urlText, url):
       fulUrl = tupleUrl[0] + '.' + tupleUrl[1] + tupleUrl[2]
       fulUrl = fulUrl.strip()
   
-      if (fulUrl + "\n") not in wwwRegList:
-        if (fulUrl + "\n") not in extraced_urls:
+      if fulUrl not in wwwRegList:
+        if fulUrl not in extraced_urls:
           if parseUrl(fulUrl):                     
             filteredFile = open("specialAttFilter.txt", 'a')
             filteredFile.write(fulUrl + "\n")
@@ -231,7 +231,7 @@ def regexExtract(urlText, url):
       fulUrl = fulUrl.strip()
 
       #save urls(http:// | https:// www.url.com) file
-      if (fulUrl + "\n") not in extraced_urls: 
+      if fulUrl not in extraced_urls: 
         if parseUrl(fulUrl):                     
           filteredFile = open("specialAttFilter.txt", 'a')
           filteredFile.write(fulUrl + "\n")
@@ -370,18 +370,18 @@ if os.stat("extrated.txt").st_size != 0 and (numOfUrlToProc < 1 or (getInst == "
   extratedFile = open("extrated.txt", 'r')
   print("Reading extrated.txt file")
   for urlExt in extratedFile.readlines():
-   if urlExt != "\n":
     urlExt = urlExt.strip()
-    extraced_urls.append(urlExt)
+    if urlExt != "\n":    
+      extraced_urls.append(urlExt)
   extratedFile.close() 
 
 #read email file and append to array
 if os.stat("emails.txt").st_size != 0 and (numOfUrlToProc < 1 or (getInst == "U" or getInst == "u") or (getInst == "F" or getInst == "f")):    
     print("Reading emails.txt file")
     emailFile = open("emails.txt", 'r')
-    for emailExt in emailFile.readlines():      
-      if emailExt != "\n" :
-        emailExt = emailExt.strip()      
+    for emailExt in emailFile.readlines(): 
+      emailExt = emailExt.strip()     
+      if emailExt != "\n" :              
         emails.append(emailExt)
     emailFile.close()    
   
@@ -398,8 +398,8 @@ while numOfProcessedUrl < numOfUrlToProc and os.stat("url.txt").st_size != 0 and
   runTimeFile = open("runtime.txt", 'a')
 
   for urlLink in urlFile.readlines():
-    if urlLink != "\n":
-      urlLink = urlLink.strip('\'"')
+    urlLink = urlLink.strip('\'"')
+    if urlLink != "\n":      
       new_urls.append(urlLink)
       runTimeFile.write(urlLink + "\n")
 
@@ -485,9 +485,9 @@ if (getInst == "F" or getInst == "f"):
     #Open url.txt file and append urls
     copiedFile = open("search.html", 'r')
     searchUrlFile = open("searchUrlFile.txt", 'a')
-    slashFile = open("fileSpecial.txt", 'a')
+    slashFile = open("searchSpecialAtt.txt", 'a')
     extratedFile = open("extrated.txt", 'a')
-    fileUrlEmailFile = open("fileUrlEmail.txt", 'a')
+    searchUrlEmailFile = open("searchUrlEmail.txt", 'a')
     
     # create a beutiful soup for the html document
     soup = BeautifulSoup(copiedFile, 'lxml')
@@ -500,9 +500,9 @@ if (getInst == "F" or getInst == "f"):
 
         newLink = str(anchor.get('href'))
         newLink = newLink.strip()
-        if link == '' and newLink != 'None' and not newLink.startswith('#'):                      
-          print("\t Possible url email, moving url to fileUrlEmail.txt")
-          fileUrlEmailFile.write(newLink + '\n')
+        if link == '' and newLink != 'None' and newLink.find("@") !=-1 and not newLink.startswith('#'):                      
+          print("\t Possible url email, moving url to searchUrlEmail.txt")
+          searchUrlEmailFile.write(newLink + '\n')
 
         # resolve relative links
         if link.startswith('/') or link.startswith('#'):
@@ -523,7 +523,7 @@ if (getInst == "F" or getInst == "f"):
     extratedFile.close()
     slashFile.close()
     copiedFile.close()
-    fileUrlEmailFile.close()
+    searchUrlEmailFile.close()
 
     copiedFile = open("search.html", 'r')
     emlStr = copiedFile.read()
