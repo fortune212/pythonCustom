@@ -1,0 +1,201 @@
+	<urlopen error [Errno -2] Name or service not known>
+http://www.kingmax.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.infoserve.com.tw/
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.wahlee.com.tw/
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.dotcompacific.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+	<urlopen error [Errno -2] Name or service not known>
+http://dna.027.net/
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.sinopec.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+HTTP Error 404: Not Found
+http://www.newyorklife.com/nyl/chinese/splash.html
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+	<urlopen error [Errno 110] Connection timed out>
+http://www.itbridge.com/
+
+	<urlopen error [Errno 110] Connection timed out>
+http://206.183.0.217/office/chinajcwy/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.hqc.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.umaxweb.com.tw/
+
+	<urlopen error [Errno 110] Connection timed out>
+http://www.theblackbox.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.gtdsoft.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.qims.com.cn/
+
+	<urlopen error [Errno 110] Connection timed out>
+http://www.sitech.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://huasun.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.linkexcel.com.cn/
+
+	<urlopen error [Errno 110] Connection timed out>
+http://203.196.0.5/
+
+	Remote end closed connection without response
+http://www.dynalab.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.integrix.com.cn/
+
+HTTP Error 404: not found
+http://www.supresoft.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.mpeg-china.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.goldhuman.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.ronghui.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.foundercsi.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.legend.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.afil.com.hk/
+
+HTTP Error 404: Not Found
+http://www.isaacnet.com/iassc.htm
+
+HTTP Error 404: Not Found
+http://www.ewcom.com/ewcom/
+
+HTTP Error 404: Not Found
+http://www.neo-tech.com/china-direct/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.ptvchina.com/
+
+HTTP Error 404: Not Found
+http://www.wp.com/EASTNET/
+
+HTTP Error 404: Not Found
+http://www.inc-financial.com/inc.htm
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.co-win.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.marketfacts.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.taiec.com.cn/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://users.iafrica.com/c/ch/chinaats/chinaats.html
+
+HTTP Error 404: Not Found
+http://www.geocities.com/WallStreet/8421/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.chinacaiec.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.beijing-jewellery.com.cn/
+
+HTTP Error 404: Not Found
+http://www.nihao.com/imp-exp/ie-firm.htm
+
+HTTP Error 404: Not Found
+http://www.chinasec.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.cn-display.com/
+
+HTTP Error 500: Internal Server Error
+http://www.dawei.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.guoan.com.cn/
+
+HTTP Error 403: Forbidden
+http://www.yantai-raffles.com/
+
+	Remote end closed connection without response
+http://www.gusao.com/
+
+HTTP Error 404: Not Found
+http://www.sparkice.com.cn/mcdonald/index.html
+
+	<urlopen error [Errno 111] Connection refused>
+http://www.china-qingqi.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.berninggene.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.cnacc.com.cn/
+
+HTTP Error 404: Not Found
+http://www.shell.com.cn/shellcgi/chinese.cgi
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.eocom.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.ntghome.com/
+
+HTTP Error 404: Not Found
+http://www.unicommedia.com/
+
+	Remote end closed connection without response
+http://www.chinabig.com/
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.cheminfo.gov.cn/default.asp
+
+	<urlopen error [Errno -2] Name or service not known>
+https://www.chinasite.comTop
+
+	<urlopen error [Errno -2] Name or service not known>
+https://cert.ebs.gov.cn/ddf5f1c8-05f4-4130-a05f-1a870386f902
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.liming.com.cnmain-content
+
+	<urlopen error [Errno -2] Name or service not known>
+http://www.miitbeian.gov.cn
+
