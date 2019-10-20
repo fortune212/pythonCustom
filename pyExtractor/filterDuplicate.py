@@ -54,6 +54,8 @@ def parseUrl(urlStr):
                       url = True
                     elif ".pdf" in urlStr:    
                       url = True
+                    elif ".zip" in urlStr:    
+                      url = True
 
                     elif "youtube" in urlStr:    
                       url = True

@@ -1,201 +1,4668 @@
-	<urlopen error [Errno -2] Name or service not known>
-http://www.kingmax.com.cn/
+HTTP Error 403: Forbidden
+https://www.consilium.europa.eu/en/media-galleries/european-council/meetings/2019-10-17-18-euco/?slide=12
 
-	<urlopen error [Errno -2] Name or service not known>
-http://www.infoserve.com.tw/
-
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.wahlee.com.tw/
-
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.dotcompacific.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
-
-	<urlopen error [Errno -2] Name or service not known>
-http://dna.027.net/
-
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.sinopec.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
+HTTP Error 404: (Not Found)
+http://europa.eu/web/who-is-who
 
 HTTP Error 404: Not Found
-http://www.newyorklife.com/nyl/chinese/splash.html
+https://webcache.googleusercontent.com/endorse.asp
 
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
-
-	<urlopen error [Errno 110] Connection timed out>
-http://www.itbridge.com/
-
-	<urlopen error [Errno 110] Connection timed out>
-http://206.183.0.217/office/chinajcwy/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.hqc.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.umaxweb.com.tw/
-
-	<urlopen error [Errno 110] Connection timed out>
-http://www.theblackbox.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.gtdsoft.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.qims.com.cn/
-
-	<urlopen error [Errno 110] Connection timed out>
-http://www.sitech.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://huasun.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.linkexcel.com.cn/
-
-	<urlopen error [Errno 110] Connection timed out>
-http://203.196.0.5/
-
-	Remote end closed connection without response
-http://www.dynalab.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.integrix.com.cn/
-
-HTTP Error 404: not found
-http://www.supresoft.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.mpeg-china.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.goldhuman.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.ronghui.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.foundercsi.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.legend.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.afil.com.hk/
+HTTP Error 401: Unauthorized
+https://www.selectusa.gov/iac/meetings/transcripts/iac2/092019
 
 HTTP Error 404: Not Found
-http://www.isaacnet.com/iassc.htm
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/./../../../../legal-content/EN/AUTO/?uri=celex:32016R0679
 
-HTTP Error 404: Not Found
-http://www.ewcom.com/ewcom/
+HTTP Error 503: Service Unavailable
+https://new.abb.com/jobs/details/US68136314_E36a
 
-HTTP Error 404: Not Found
-http://www.neo-tech.com/china-direct/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.ptvchina.com/
-
-HTTP Error 404: Not Found
-http://www.wp.com/EASTNET/
-
-HTTP Error 404: Not Found
-http://www.inc-financial.com/inc.htm
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.co-win.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.marketfacts.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.taiec.com.cn/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://users.iafrica.com/c/ch/chinaats/chinaats.html
-
-HTTP Error 404: Not Found
-http://www.geocities.com/WallStreet/8421/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.chinacaiec.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.beijing-jewellery.com.cn/
-
-HTTP Error 404: Not Found
-http://www.nihao.com/imp-exp/ie-firm.htm
-
-HTTP Error 404: Not Found
-http://www.chinasec.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.cn-display.com/
+HTTP Error 400: Bad Request
+https://docs.wto.org/dol2fe/Pages/FE_Search/javascript:__doPostBack('ctl00$LanguageWUC1$SpanishBtn','')
 
 HTTP Error 500: Internal Server Error
-http://www.dawei.com/
+http://tcc.export.gov/Trade_Agreements/All_Trade_Agreements/../../static/node720.asp
 
-	<urlopen error [Errno -2] Name or service not known>
-http://www.guoan.com.cn/
+HTTP Error 404: Not Found
+https://trade.gov/javascript:ok2submit();
+
+HTTP Error 404: Not Found
+http://trade.gov/promotingtrade/index.asp
+
+HTTP Error 404: Not Found
+http://www.osec.doc.gov/omo/FOIA/FOIAWEBSITE.htm
+
+HTTP Error 404: Not Found
+https://enforcement.trade.gov/pcp/pcp-howtofile.html
+
+<urlopen error no host given>
+http:/trade.gov/privacy.asp
+
+HTTP Error 400: Bad Request
+http://otexa.trade.gov./cita_otexa.htm
+
+HTTP Error 404: Not Found
+http://trade.gov/mas/ian/./index.asp
+
+	 unk 
+&method=GetParameterValues&DataSetName=MNE&ParameterName=Non bankAffiliatesOnly&ResultFormat=xml
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'otexa.trade.gov.'. (_ssl.c:1056)>
+https://otexa.trade.gov./growamerica/growamerica.htm
+
+HTTP Error 404: Not Found
+http://trade.gov/ofii/
+
+<urlopen error [Errno 104] Connection reset by peer>
+https://tinet.ita.doc.gov
+
+HTTP Error 401: Unauthorized
+http://www.export.gov/exportbasics/ticredirect.asp
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.govP26_4253
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.govP18_1916
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.govP10_391
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.govP6_171
+
+HTTP Error 404: Not Found
+http://www.ita.doc.gov/contact.asp
+
+HTTP Error 404: Not Found
+http://trade.gov/index.asp
+
+HTTP Error 404: Not Found
+https://olive.qa/radiochannel/radio-suno/
+
+HTTP Error 503: Service Unavailable
+http://www.mediasix.me
 
 HTTP Error 403: Forbidden
-http://www.yantai-raffles.com/
+http://www.qatarairways.com/lb/en/homepage.page
 
-	Remote end closed connection without response
-http://www.gusao.com/
+[Errno 104] Connection reset by peer
+http://www.alqataria-steel.com
 
-HTTP Error 404: Not Found
-http://www.sparkice.com.cn/mcdonald/index.html
+HTTP Error 503: Service Temporarily Unavailable
+http://www.tdap.gov.pk/
 
-	<urlopen error [Errno 111] Connection refused>
-http://www.china-qingqi.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.berninggene.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.cnacc.com.cn/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+http://www.manateq.qa
 
 HTTP Error 404: Not Found
-http://www.shell.com.cn/shellcgi/chinese.cgi
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.eocom.com/
-
-	<urlopen error [Errno -2] Name or service not known>
-http://www.ntghome.com/
+http://www.projectqatar.com/includes/blocks/workshops_form.php?workshop=107
 
 HTTP Error 404: Not Found
-http://www.unicommedia.com/
+http://www.astmeventsme.com/astm.asp
 
-	Remote end closed connection without response
-http://www.chinabig.com/
+HTTP Error 404: Not Found
+https://ustr.gov/about-us/reading-room/freedom-information-act-foia
 
-	<urlopen error [Errno -2] Name or service not known>
-http://www.cheminfo.gov.cn/default.asp
+HTTP Error 404: Not Found
+http://trade.gov/foia/
 
-	<urlopen error [Errno -2] Name or service not known>
-https://www.chinasite.comTop
+HTTP Error 401: Unauthorized
+http://www.treasury.gov/No-Fear-Act/_layouts/listform.aspx?ListId=%7BEF8DA149%2D57D9%2D46C9%2D8A1B%2DE9B4B8E02D27%7D&PageType=0
 
-	<urlopen error [Errno -2] Name or service not known>
-https://cert.ebs.gov.cn/ddf5f1c8-05f4-4130-a05f-1a870386f902
+<urlopen error [Errno 111] Connection refused>
+https://www.fincen.govmain-content
 
-	<urlopen error [Errno -2] Name or service not known>
-http://www.liming.com.cnmain-content
+<urlopen error [Errno 111] Connection refused>
+https://www.fiscal.treasury.govmain
 
-	<urlopen error [Errno -2] Name or service not known>
-http://www.miitbeian.gov.cn
+<urlopen error [Errno 111] Connection refused>
+https://www.occ.treas.govtop
+
+<urlopen error [Errno 111] Connection refused>
+https://www.occ.treas.govmain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.cdfifund.govmain-searchbar
+
+<urlopen error [Errno 111] Connection refused>
+https://www.cdfifund.govmobileNavBar
+
+HTTP Error 400: Bad Request
+https://www.makinghomeaffordable.gov/pages/../../pages/global-google-privacy.aspx
+
+<urlopen error [Errno 111] Connection refused>
+https://www.makinghomeaffordable.govmmenu
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mymoney.govmainContent
+
+HTTP Error 404: Not Found
+https://www.fms.treas.gov/dts/issues/1998/1?sortOrder=desc#FY1998
+
+<urlopen error [Errno 111] Connection refused>
+https://www.fms.treas.govmain
+
+HTTP Error 404: Not Found
+https://www.fiscal.treasury.gov/fsservices/gov/pmt/chkClaims/payments.htm
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.godirect.gov
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://www.godirect.gov/gpw/
+
+<urlopen error [Errno -2] Name or service not known>
+https://fiscal.treasury.govnogo
+
+<urlopen error [Errno -2] Name or service not known>
+https://fiscal.treasury.govcontent
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://bsaefiling1.fincen.treas.gov/PublicAccess
+
+<urlopen error [Errno -2] Name or service not known>
+https://bsaefiling.fincen.treas.govcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasurydirect.govtab3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasurydirect.govtab2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasurydirect.govtab1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usmint.govskipNavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://search.treasury.govnav-dropdown
+
+<urlopen error [Errno -2] Name or service not known>
+https://search.treasury.govsearch-menu-dropdown
+
+<urlopen error [Errno -2] Name or service not known>
+https://search.treasury.govmain-content
+
+HTTP Error 404: Not Found
+http://www.usdoj.gov/crt/cor/
+
+<urlopen error [Errno 110] Connection timed out>
+http://cap.tricare.mil/Default.aspx
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-7
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-6
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-5
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.treasury.govfragment-1
+
+HTTP Error 401: Unauthorized
+http://www.treasury.gov/about/organizational-structure/offices/_layouts/Authenticate.aspx?Source=%2Fabout%2Forganizational%2Dstructure%2Foffices%2FPages%2FOffice%2Dof%2DCivil%2DRights%2Dand%2DDiversity%2Easpx
+
+HTTP Error 502: Bad Gateway
+http://www.bep.gov/
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://www.godirect.gov/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+http://amis.cdfifund.gov
+
+HTTP Error 404: Not Found
+http://www.sigtarp.gov/foia.aspx
+
+HTTP Error 400: Bad Request
+http://www.makinghomeaffordable.gov/../../pages/global-google-privacy.aspx
+
+HTTP Error 401: Unauthorized
+http://www.treasury.gov/connect/_layouts/Authenticate.aspx?Source=%2Fconnect%2FPages%2Fcontact%2Dus%2Easpx
+
+	 unk 
+http://www.osc.govjavascript: {}
+
+HTTP Error 401: Unauthorized
+https://osc.gov/_layouts/15/Authenticate.aspx?Source=%2F
+
+	 unk 
+http://www.osc.govjavascript:;
+
+HTTP Error 404: Not Found
+http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html
+
+<urlopen error [Errno 111] Connection refused>
+https://www.state.govnav__primary-nav
+
+<urlopen error [Errno 111] Connection refused>
+https://www.state.govcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://blog.usaid.govwrapper
+
+<urlopen error [Errno -2] Name or service not known>
+https://stories.usaid.govstories/#supporting-global-stability
+
+<urlopen error [Errno -2] Name or service not known>
+https://oig.usaid.govmain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://2012-2017.usaid.govwork-usaid/partnership-opportunities
+
+	 unk 
+https://2012-2017.usaid.govjavascript:;
+
+HTTP Error 503: Service Unavailable
+http://results.usaid.gov
+
+<urlopen error [Errno -2] Name or service not known>
+https://2012-2017.usaid.govmain-content
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://get.adobe.com/air/
+
+<urlopen error [Errno 104] Connection reset by peer>
+https://forums.adobe.com/welcome?promoid=29NMCRJT&mv=other
+
+<urlopen error [Errno 111] Connection refused>
+https://www.exim.govby-need
+
+<urlopen error [Errno 111] Connection refused>
+https://www.exim.govby-name
+
+<urlopen error [Errno -2] Name or service not known>
+http://grow.exim.govheader
+
+<urlopen error [Errno -2] Name or service not known>
+http://grow.exim.govlisting
+
+<urlopen error [Errno 110] Connection timed out>
+http://172.31.3.4/about/freedom-information-act/privacy-act-requests/pia-notices-assessments
+
+HTTP Error 404: Not Found
+http://ia.ita.doc.gov/sunset/
+
+HTTP Error 404: Not Found
+http://www.fas.usda.gov/ustrade.asp
+
+HTTP Error 400: Bad Request
+http://www.commerce.gov/../About/opog_faq_privacy.html#mail
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://www.oig.doc.gov/pages/Privacy-Policy.aspx
+
+HTTP Error 404: Not Found
+http://www.commerce.gov/digital_policy.html#share
+
+<urlopen error [Errno 111] Connection refused>
+https://www.fpc.govmain
+
+HTTP Error 404: Not Found
+http://trade.gov/feedback.asp
+
+HTTP Error 404: Not Found
+http://www.accj.or.jp/index.php
+
+HTTP Error 403: Forbidden
+http://www.apecsec.org.sg/
+
+<urlopen error [Errno 110] Connection timed out>
+http://beijing.usembassy-china.org.cn/ipr.html
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.mac.doc.gov/eebic/ceebic.html
+
+HTTP Error 404: Not Found
+http://www.acq.osd.mil/dp/fc/
+
+HTTP Error 404: Not Found
+https://tcc.export.gov/Report_a_Barrier/../Additional_Info/Site_Map/../../Additional_Info/Trade_and_Government_Sites/HTTP://dataweb.usitc.gov/
+
+<urlopen error [Errno 110] Connection timed out>
+http://www.bis.doc.gov/
+
+<urlopen error [Errno -2] Name or service not known>
+http://ts.nist.gov/ts/htdocs/210/gsig/gsig.htm
+
+HTTP Error 401: Unauthorized
+http://www.export.gov/exportbasics/eg_main_017483.asp
+
+HTTP Error 404: Not Found
+http://www.ita.doc.gov/td/td_home/tdhome.html
+
+HTTP Error 400: Bad Request
+http://www.nist.gov/../disclaimer/disclaimer.cfm
+
+HTTP Error 404: Not Found
+https://www.buyusa.gov/./contactus/index.asp
+
+<urlopen error [Errno -2] Name or service not known>
+https://build.trade.gov/build/idcplg?IdcService=DOWNLOAD_PUBLIC_FILE&RevisionSelectionMethod=Latest&dDocName=tg_ian_005571
+
+HTTP Error 404: Not Found
+https://enforcement.trade.gov/pcp-overview.html
+
+HTTP Error 404: Not Found
+http://www.exim.gov/seminars/index.cfm
+
+HTTP Error 404: Not Found
+http://www.ita.doc.gov/td/finance/index.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://mongolia.usembassy.gov/business.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://bern.usembassy.gov/business.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://abidjan.usembassy.gov/business.html
+
+<urlopen error [Errno -2] Name or service not known>
+http://ocio.os.doc.govmain-content
+
+<urlopen error [Errno 104] Connection reset by peer>
+https://www.buyusa.gov./import/index.asp
+
+HTTP Error 404: Not Found
+https://bit.ly/i/moments
+
+HTTP Error 404: Not Found
+http://trade.gov/cs/eaward2010.asp
+
+HTTP Error 404: Not Found
+http://www.commerce.gov/news/press-releases/2011/05/16/commerce-secretary-gary-locke-honors-us-companies-highest-award-expor.html
+
+HTTP Error 404: Not Found
+https://www.commerce.gov/news/press-releases/2016/05/us-secretary-commerce-penny-pritzker-honors-us-companies-presidential
+
+HTTP Error 400: Bad Request
+http://export.gov/articles/../../index.asp
+
+HTTP Error 400: Bad Request
+http://export.gov/articles/../../articles/index.asp
+
+HTTP Error 400: Bad Request
+http://export.gov/articles/../../articles/successstories/index.asp
+
+HTTP Error 400: Bad Request
+http://export.gov/articles/../../about/eg_main_016803.asp
+
+HTTP Error 404: Not Found
+http://www.trade.gov/global.asp
+
+<urlopen error [Errno -2] Name or service not known>
+http://courses.gettingtoglobal.org/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.arcticnetmeetings.ca'. (_ssl.c:1056)>
+https://www.arcticnetmeetings.ca/asm2018/index.php
+
+[Errno 104] Connection reset by peer
+https://www.nationalgeographic.com/magazine/2018/06/plastic-planet-solutions-waste-pollution/
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comprint
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-11
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-10
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-9
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-8
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-7
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comfurther-info
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comaddresses
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.comh-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://na01.safelinks.protection.outlook.commain
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mtsociety.orgsiteBody
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+http://www.growboating.org
+
+<urlopen error [Errno 104] Connection reset by peer>
+http://www.exportlegal.org/elan
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comdisclaimers
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comid-6d029f04-f04a-43ee-a643-e8f1d4a0ef43
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comid-681e4f53-63c6-4011-82f5-4ae9e4c3c2db
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comid-3d80df92-b19e-417b-b68a-32563cb87f07
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comgwg
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.complans
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comtools
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comols
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comtemplates
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.cominsight
+
+<urlopen error [Errno 111] Connection refused>
+https://www.godaddy.comwsboverview
+
+[Errno 104] Connection reset by peer
+http://ads.networksolutions.com/landing?code=P111C100S1N0B142A1D401E0000V100
+
+HTTP Error 403: Forbidden
+https://angel.co/1776
+
+HTTP Error 404: Not Found
+http://publications.apec.org/index.php?m=u&key=1
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+https://aimp2.apec.org/sites/PDB/default.aspx
+
+<urlopen error [Errno -2] Name or service not known>
+https://cyber.law.harvard.edumain
+
+HTTP Error 403: Forbidden
+http://www.kwm.com/en/
+
+HTTP Error 404: Not Found
+https://www.ifacsolutions.com/careers
+
+HTTP Error 404: Not Found
+http://www.dennisontrailers.com/au-endienstmitarbeiter-m-w-nrw-deutschland
+
+HTTP Error 404: Not Found
+http://bmsireland.com/job-opportunity-embedded-software-engineer/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1056)>
+https://www.worklab.ie/incupharm-centre-manager-job-vacancy/
+
+HTTP Error 404: Not Found
+https://sound-bounce.com/careers/
+
+	 unk 
+https://ambition.enterprise-ireland.com/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://secure.enterprise-ireland.com
+
+HTTP Error 404: Not Found
+http://cooperation.epfl.ch/HomePage
+
+HTTP Error 404: Not Found
+https://www.intuit.com//privacy.truste.com/privacy-seal/validation?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intuit.comnavbar
+
+	 unk 
+https://www.intuit.comjavascript:void(0)
+
+<urlopen error [Errno 111] Connection refused>
+https://www.paypal.comMenu
+
+<urlopen error [Errno 110] Connection timed out>
+https://gestorb.io/pub/forms/?f=91ea6ebf258848ad930d2331090ade0e
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+https://www.tradecommissioner.gc.ca/trade_commissioners-delegues_commerciaux/index.aspx?lang=eng
+
+HTTP Error 403: Forbidden
+https://angel.co/startupchile
+
+HTTP Error 404: Not Found
+http://www.report.rai.it/dl/Report/puntata/ContentItem-a31abb5d-9a75-4947-8628-445afaa5ea0d.html
+
+<urlopen error [Errno -2] Name or service not known>
+http://diario.latercera.com/2016/08/28/01/contenido/negocios/27-222137-9-proyectos-de-startup-chile-se-valorizan-en-us-13519-millones.shtml
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+http://be.brussels/brussels
+
+HTTP Error 403: Forbidden
+https://storify.com/nikcub/balajis-on-full-stack-startups
+
+	 unk 
+https://www.ups.comjavascript:utag.gdpr.showConsentPreferences();window(scrollTo(0,0));
+
+<urlopen error [Errno -2] Name or service not known>
+http://+84422189777
+
+HTTP Error 404: Not Found
+http://vsvcorner.siliconvalley.com.vn
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ashleighivory.com/
+
+HTTP Error 404: Not Found
+http://about.americanexpress.com/news/pr/2015/amex-announces-exporting-program.aspx
+
+HTTP Error 404: Not Found
+http://www.trade.gov/press/bios/jadotte.asp
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+http://ir.americanexpress.com/?inav=footer_about_investor_relations
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://travel.americanexpress.com/home?intlink=us-en-hp-mt1-cta-cm-amextravel-250719
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://www.amexglobalbusinesstravel.com/meetings-events/?inav=menu_business_meetings_events
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+https://www347.americanexpress.com/ATWORK/en_US/atwork.do?pageAction=initialize&inav=menu_myacct_atwork
+
+HTTP Error 404: Not Found
+https://consent.ft.com/products?segmentId=d290332b-e8e8-d29b-2ff4-2019b13f008a
+
+<urlopen error [Errno -2] Name or service not known>
+https://consent.ft.como-header-search-primary
+
+<urlopen error [Errno -2] Name or service not known>
+https://consent.ft.como-header-drawer
+
+<urlopen error [Errno -2] Name or service not known>
+https://consent.ft.comsite-footer
+
+<urlopen error [Errno -2] Name or service not known>
+https://consent.ft.comsite-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://consent.ft.comsite-navigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://ftalphaville.ft.como-header-search-sticky
+
+<urlopen error [Errno -2] Name or service not known>
+https://ftalphaville.ft.como-header-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://ftalphaville.ft.como-header-drawer
+
+HTTP Error 404: Not Found
+https://howtospendit.ft.com/_scroll/home/1/6-9
+
+<urlopen error [Errno -2] Name or service not known>
+https://howtospendit.ft.como-header-search-sticky
+
+<urlopen error [Errno -2] Name or service not known>
+https://howtospendit.ft.como-header-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://howtospendit.ft.como-header-drawer
+
+<urlopen error [Errno -2] Name or service not known>
+https://howtospendit.ft.commain
+
+<urlopen error [Errno -2] Name or service not known>
+https://aboutus.ft.como-header-search-sticky
+
+<urlopen error [Errno -2] Name or service not known>
+https://aboutus.ft.como-header-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://aboutus.ft.como-header-drawer
+
+<urlopen error [Errno -2] Name or service not known>
+https://transact.ft.como-header-drawer
+
+<urlopen error [Errno -2] Name or service not known>
+https://enterprise.ft.comtabContent_168160_5_
+
+<urlopen error [Errno -2] Name or service not known>
+https://enterprise.ft.comtabContent_168160_4_
+
+<urlopen error [Errno -2] Name or service not known>
+https://enterprise.ft.comtabContent_168160_3_
+
+<urlopen error [Errno -2] Name or service not known>
+https://enterprise.ft.comtabContent_168160_2_
+
+<urlopen error [Errno -2] Name or service not known>
+https://enterprise.ft.comtabContent_168160_1_
+
+<urlopen error [Errno -2] Name or service not known>
+http://discover.ft.com/mailshare?part=https%3A//enterprise.ft.com/en-gb/services/group-subscriptions/education/&title=Group%20Subscriptions%20for%20Education
+
+<urlopen error [Errno -2] Name or service not known>
+https://enterprise.ft.comfooter_nav
+
+HTTP Error 404: Not Found
+http://markets.ft.com/products?segmentId=d290332b-e8e8-d29b-2ff4-2019b13f008a
+
+<urlopen error [Errno -2] Name or service not known>
+http://markets.ft.como-header-search-primary
+
+<urlopen error [Errno -2] Name or service not known>
+http://markets.ft.como-header-drawer
+
+<urlopen error [Errno -2] Name or service not known>
+http://markets.ft.comsite-footer
+
+<urlopen error [Errno -2] Name or service not known>
+http://markets.ft.comsite-content
+
+<urlopen error [Errno -2] Name or service not known>
+http://markets.ft.comsite-navigation
+
+HTTP Error 400: Bad Request
+http://rankings.ft.com/businessschoolrankings/javascript: void(0);
+
+<urlopen error [Errno 110] Connection timed out>
+https://presscuttings.ft.com/presscuttings/search.htm
+
+HTTP Error 404: Not Found
+https://jobs.ft.com/regionselector.ashx
+
+<urlopen error [Errno 110] Connection timed out>
+https://mbanewslines.ft.com/
+
+<urlopen error [Errno 110] Connection timed out>
+https://clippings.ft.com/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'portfolio.ft.com'. (_ssl.c:1056)>
+https://portfolio.ft.com/
+
+<urlopen error [Errno -2] Name or service not known>
+https://markets.ft.como-header-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://markets.ft.como-header-drawer
+
+HTTP Error 403: Forbidden
+http://www.ftadviser.com/
+
+HTTP Error 403: Forbidden
+https://sub.ft.com/spa2_5/
+
+<urlopen error [Errno -2] Name or service not known>
+http://aboutus.ft.comtop
+
+<urlopen error [Errno -2] Name or service not known>
+http://aboutus.ft.como-header-search-sticky
+
+<urlopen error [Errno -2] Name or service not known>
+http://aboutus.ft.como-header-search
+
+<urlopen error [Errno -2] Name or service not known>
+http://aboutus.ft.como-header-drawer
+
+HTTP Error 404: Not Found
+https://search.georgetown.edu//www.georgetown.edu/about
+
+<urlopen error [Errno -2] Name or service not known>
+https://search.georgetown.edumenu-full
+
+<urlopen error [Errno -2] Name or service not known>
+https://search.georgetown.edugu-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://search.georgetown.edumain-content
+
+<urlopen error [Errno -2] Name or service not known>
+http://msbonline.georgetown.edumain-content
+
+HTTP Error 403: Forbidden
+https://giving.georgetown.edu/msb-gift
+
+<urlopen error [Errno -2] Name or service not known>
+https://accessibility.georgetown.edusite-menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://accessibility.georgetown.edumain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://msb.georgetown.eduprimary-content
+
+HTTP Error 404: Not Found
+https://www.cbinsights.com//www.cbinsights.com
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comcal
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://aws.passkey.com/event/16083576/owner/13640/home
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comg-524202999
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comg-754233571
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comg-274930587
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comg-894913824
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comg-809563024
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comg-61052189
+
+<urlopen error [Errno -2] Name or service not known>
+http://events.cbinsights.comrsvp
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://securelb.imodules.com/s/1686/alumni/giving.aspx?sid=1686&gid=4&pgid=476&cid=1175&dids=8.10.11.12.18.21.22.23.26.27.32.33.39.40.59.64.65.66.67.68.69.70.71.72.74&bledit=1&sort=1&appealcode=odybv
+
+HTTP Error 403: Forbidden
+https://shop.guhoyas.com/Fanatics_Branded
+
+HTTP Error 403: Forbidden
+http://shop.guhoyas.com/COLLEGE_Georgetown_Hoyas_Kids
+
+<urlopen error [Errno 111] Connection refused>
+https://guhoyas.commain-content
+
+HTTP Error 404: Not Found
+http://www.georgetown.edu/academics/study-abroad/index.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://uadmissions.georgetown.edusite-menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://uadmissions.georgetown.edumain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://finaid.georgetown.edusite-menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://finaid.georgetown.edumain-content
+
+HTTP Error 403: Forbidden
+https://guevents.georgetown.edu//www.georgetown.edu/about
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.eduspecial_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.eduservice_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.edureligious_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.eduathletics_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.eduarts_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.eduacademics_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.edustudent_events
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.edumenu-full
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.edugu-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://guevents.georgetown.edumain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://giving.georgetown.educontent
+
+HTTP Error 404: NOT FOUND
+https://contact.georgetown.edu//www.georgetown.edu/about
+
+<urlopen error [Errno -2] Name or service not known>
+https://contact.georgetown.edumenu-full
+
+<urlopen error [Errno -2] Name or service not known>
+https://contact.georgetown.edugu-search
+
+<urlopen error [Errno -2] Name or service not known>
+https://contact.georgetown.edumain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://registrar.georgetown.edumain-content
+
+HTTP Error 403: Forbidden
+https://hr.georgetown.edu/hoya_staffing
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.georgetown.edusite-menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.georgetown.edumain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edumobile-super-search
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edumobile-journal-finder
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edumobile-databases
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edumobile-hoyasearch-search
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://wrlc-gu.primo.exlibrisgroup.com/discovery/search?vid=01WRLC_GUNIV:01WRLC_GUNIV&mode=advanced
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edusuper-search
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edujournal-finder
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edudatabases
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.eduhoyasearch-search
+
+<urlopen error [Errno 111] Connection refused>
+https://www.library.georgetown.edumain-content
+
+HTTP Error 500: Internal Server Error
+http://03f335e.netsolhost.com/nasbite-member-registration-2/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+http://www.flycou.com/?page_id=98
+
+<urlopen error [Errno 111] Connection refused>
+https://nasbite.orgteam-slider
+
+<urlopen error [Errno 111] Connection refused>
+https://https://www.missouristate.edu
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+https://www.umkc.edu
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+https://lincolnu.edu
+
+<urlopen error [Errno 111] Connection refused>
+https://www.missoui.edu
+
+<urlopen error [Errno -2] Name or service not known>
+https://sbdc.missouri.edutab-panel-5
+
+<urlopen error [Errno -2] Name or service not known>
+https://sbdc.missouri.edutab-panel-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://sbdc.missouri.edutab-panel-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://sbdc.missouri.edustore.links
+
+<urlopen error [Errno -2] Name or service not known>
+https://sbdc.missouri.edustore.menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://sbdc.missouri.edumaincontent
+
+	 unk 
+West Plains, MO 65775
+
+HTTP Error 400: Bad Request
+https://maps.google.com/?q=Howell County Rural Fire District #1,
+
+	 unk 
+http://mufrti.org../../courses/company-officer/simulated-incident-management-first-arriving-officer.shtml
+
+HTTP Error 308: Permanent Redirect
+https://pinterest.com/pin/create/button/?url=https://www.industryweek.com/salary-survey/readers-respond-what-manufacturings-biggest-challenge&description=
+
+HTTP Error 404: Not Found
+https://missourieconomy.org/Employers/default.aspx
+
+HTTP Error 404: Not Found
+https://www.exportmissouri.mo.gov/exports/home
+
+<urlopen error [Errno -2] Name or service not known>
+https://openforbiz.mo.govmain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.researchinsociety.orgtab-panel-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.researchinsociety.orgtab-panel-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.researchinsociety.orgtab-panel-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.researchinsociety.orgstore.links
+
+<urlopen error [Errno 111] Connection refused>
+https://www.researchinsociety.orgstore.menu
+
+<urlopen error [Errno 111] Connection refused>
+https://www.researchinsociety.orgmaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.weidert.comtop-header
+
+<urlopen error [Errno -2] Name or service not known>
+https://extension2.missouri.edustore.links
+
+<urlopen error [Errno -2] Name or service not known>
+https://extension2.missouri.edustore.menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://extension2.missouri.edumaincontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://extension.missouri.edutext
+
+<urlopen error [Errno -2] Name or service not known>
+https://extension.missouri.educolumnonetop
+
+HTTP Error 404: Not Found
+http://www.missouri.edu/copyright.htm
+
+HTTP Error 404: Not Found
+http://missouri.edu/copyright.php
+
+HTTP Error 401: Unauthorized
+http://uoeshare.ext.missouri.edu/share/
+
+HTTP Error 401: Unauthorized
+http://extteam.missouri.edu/SiteDirectory/Lists/Sites/Sites1.aspx
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+https://extensionapps.missouri.edu/extcouncil
+
+HTTP Error 404: Not Found
+http://www.umsystem.edu/ums/hr/handbook/educational_assistance_program
+
+<urlopen error [Errno -2] Name or service not known>
+http://extension.missouri.edutext
+
+<urlopen error [Errno -2] Name or service not known>
+http://extension.missouri.educolumnonetop
+
+	 unk 
+http://www.giving.missouri.edu/s/1002/giving/index.aspx?sid=1002&gid=165&pgid=5658
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+http://www.umkc.edu/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.umsystem.educontent
+
+HTTP Error 404: Not Found
+http://www.bradley.edu/legal/disclaimer/
+
+HTTP Error 404: Not Found
+http://www.bradleybraves.com//sidearmsports.com/terms-of-service/
+
+HTTP Error 405: Not Allowed
+http://am.ticketmaster.com/bradleyuniversity
+
+HTTP Error 404: Not Found
+http://bradley.sidearmsports.com/sports/2015/7/28/131090.aspx
+
+<urlopen error [Errno -2] Name or service not known>
+http://giftplanning.bradley.edumain-content
+
+HTTP Error 404: Not Found
+https://www.illinois.gov/dceo/SmallBizAssistance/BeginHere/Pages/SBDC.aspx
+
+<urlopen error [Errno 110] Connection timed out>
+http://www.bis.doc.gov/index.php/compliance-a-training/current-seminar-schedule
+
+<urlopen error [Errno 110] Connection timed out>
+http://tac.bis.doc.gov/
+
+<urlopen error [Errno 110] Connection timed out>
+http://bis.doc.gov/index.php/component/docman/doc_download/13-commerce-control-list-index/licensing/commerce-control-list-classification
+
+<urlopen error [Errno 110] Connection timed out>
+http://efoia.bis.doc.gov
+
+<urlopen error [Errno 110] Connection timed out>
+http://www.bis.doc.gov
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-35827
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-37142
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-35922
+
+HTTP Error 404: Not Found
+https://www.census.gov//www.commerce.gov/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.census.govuses
+
+<urlopen error [Errno 111] Connection refused>
+https://www.census.govchanges
+
+<urlopen error [Errno 111] Connection refused>
+https://www.census.govhistory
+
+<urlopen error [Errno 111] Connection refused>
+https://www.census.govintroduction
+
+<urlopen error [Errno 111] Connection refused>
+https://www.census.govSKIP2
+
+HTTP Error 404: Not Found
+https://usatrade.census.gov//www.commerce.gov/
+
+<urlopen error [Errno -2] Name or service not known>
+https://usatrade.census.govmainContent
+
+HTTP Error 404: NOT FOUND
+http://atlas.media.mit.edu/permissions/
+
+<urlopen error [Errno -2] Name or service not known>
+http://atlas.media.mit.educsv
+
+<urlopen error [Errno -2] Name or service not known>
+http://atlas.media.mit.edupng
+
+<urlopen error [Errno -2] Name or service not known>
+http://atlas.media.mit.edusvg
+
+<urlopen error [Errno -2] Name or service not known>
+http://atlas.media.mit.educlose
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.euromonitor.com/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.cia.govmain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://kompassindia.comquote-carousel
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comuniversal-translation-services
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comtranslate-by-humans
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comsimultrans
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comrushtranslate
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comrev
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comprotranslating
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comone-hour-translation
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comlanguage-scientific
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comjr-language-translation-services
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comcollapse
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comnav_campaign
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comdown
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comup
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comgengo
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comday-translations
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comapex-translations
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comalta-language-services
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comacclaro
+
+HTTP Error 400: Bad Request
+https://go.consumeraffairs.com/schedule-call/-9-0-1/?category=Translation Services&source=Best Translation Services&utm_source=cawebsite&utm_medium=organic&utm_campaign=buyersguide
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comguide-reviews
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comguide-audience
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comguide-criteria
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comguide-features
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comcompare
+
+<urlopen error [Errno 111] Connection refused>
+https://www.consumeraffairs.comauthor-profile
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.business.westernunion.com
+
+<urlopen error [Errno 111] Connection refused>
+https://bradley.edumain-content
+
+HTTP Error 404: Not Found
+http://www.ibhe.org/aboutBHE/default.htm
+
+HTTP Error 404: Not Found
+http://nasbite.org/cgbp-frequently-asked-questions/
+
+HTTP Error 404: Not Found
+https://www.plantemoran.com/
+
+HTTP Error 404: Not Found
+https://missouri.edu//missouri.edu/eeo-aa/
+
+<urlopen error [Errno 111] Connection refused>
+https://missouri.educontent
+
+<urlopen error [Errno 111] Connection refused>
+https://missouri.edunavigation
+
+HTTP Error 404: Not Found
+https://www.missouri.edu//missouri.edu/eeo-aa/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.giving.missouri.edu/
+
+HTTP Error 403: Forbidden
+https://securelb.imodules.com/s/1002/giving/index.aspx?sid=1002&gid=165&pgid=5006&cid=9137
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.mizzou.com
+
+<urlopen error [Errno 111] Connection refused>
+https://www.missouri.educontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.missouri.edunavigation
+
+HTTP Error 404: Not Found
+http://trade.gov/success/index.asp
+
+HTTP Error 404: Not Found
+http://mda.mo.gov/abd/intmkt/offices.php
+
+HTTP Error 403: Forbidden
+http://www.export.gov/FTA/ftatarifftool/index.asp
+
+HTTP Error 404: Not Found
+http://www.buyusa.gov/stlouis/services.html
+
+HTTP Error 403: Forbidden
+http://www.whitehouse.gov/the-press-office/2010/09/16/white-house-releases-report-president-national-export-initiative
+
+HTTP Error 404: Not Found
+http://www.ksdk.com/news/local/story.aspx?storyid=172036
+
+HTTP Error 404: Not Found
+http://trade.gov/topmarkets/?utm_source=hero&utm_medium=exportgov&utm_campaign=topmarkets
+
+HTTP Error 404: Not Found
+https://www.bea.gov/international/fdius2014_revised.htm
+
+HTTP Error 404: Not Found
+https://customermap.exim.gov/us_terr_map.cfm
+
+<urlopen error [Errno -2] Name or service not known>
+https://customermap.exim.govlrgMapPageWrapper
+
+<urlopen error [Errno 111] Connection refused>
+https://www.exim.govmain-menu
+
+HTTP Error 404: Not Found
+https://www.trade.gov/sabit
+
+HTTP Error 403: Forbidden
+https://intlbankforreconanddev.ethicspointvp.com/custom/ibrd/_crf/english/form_data.asp
+
+[Errno 104] Connection reset by peer
+http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://fred.stlouisfed.orgtop
+
+HTTP Error 999: Request denied
+http://bit.ly/d056zL
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://federalreserveonline.org
+
+HTTP Error 504: Gateway Time-out
+https://geofred.stlouisfed.org
+
+<urlopen error [Errno -2] Name or service not known>
+https://fred.stlouisfed.org0
+
+<urlopen error [Errno -2] Name or service not known>
+https://fred.stlouisfed.orgcontent-container
+
+<urlopen error [Errno 111] Connection refused>
+https://www.timeshighereducation.commain-content
+
+HTTP Error 404: Not Found
+https://ncsesdata.nsf.gov//www.nsf.gov/policies/nsf_plain_language.jsp
+
+<urlopen error [Errno -2] Name or service not known>
+https://ncsesdata.nsf.govtabs-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://ncsesdata.nsf.govtabs-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://ncsesdata.nsf.govtabs-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://ncsesdata.nsf.govcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nsf.govfig4d-table-view-tab
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nsf.govfig4d-chart-view-tab
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nsf.govfig4d
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nsf.govcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.granicus.compast-incidents
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.granicus.comabout-this-site
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.granicus.comupdates-dropdown-atom
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.granicus.comupdates-dropdown-support
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.granicus.comupdates-dropdown-sms
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.granicus.comupdates-dropdown-email
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comRight+to+Make+a+Complaint
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comRight+to+Revoke+Consent
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comRight+to+Portability
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comRight+to+Restriction+of+Processing
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comRight+to+Erasure
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comData+Subject+Rights
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comData+Retention
+
+<urlopen error [Errno 111] Connection refused>
+https://granicus.comSecurity
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comData+Transfers
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comData+Sharing
+
+<urlopen error [Errno 111] Connection refused>
+https://granicus.comProfiling
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comFailure+to+Provide+Personal+Data
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comChange+of+Legal+Basis
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comData+Processing
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comPersonal+Data
+
+<urlopen error [Errno -2] Name or service not known>
+https://granicus.comContact+Information
+
+<urlopen error [Errno 111] Connection refused>
+https://granicus.comIntroduction
+
+<urlopen error [Errno 111] Connection refused>
+https://www.selectusasummit.uscontent
+
+HTTP Error 403: Forbidden
+https://www.trade.gov/../index.asp
+
+HTTP Error 404: Not Found
+http://www.trade.gov/iraq
+
+HTTP Error 404: Not Found
+http://trade.gov/ttab
+
+HTTP Error 403: Forbidden
+https://www.govinfo.gov/content/pkg/USCODE-2009-title44/html/USCODE-2009-title44-chap15.htm
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govprint
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govh-7
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govfurther-info
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govaddresses
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govh-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govh-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govh-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govh-1
+
+<urlopen error [Errno 110] Connection timed out>
+http://www.access.gpo.gov/nara/cfr/waisidx_03/29cfr1614_03.html
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://www.oig.doc.gov/
+
+HTTP Error 404: Not Found
+https://trade.gov/press/press-releases/2013/us-department-of-commerce-helped-american-company-secure-12-million-deal-abroad-032213.asp
+
+HTTP Error 404: Not Found
+http://tinet.ita.doc.gov/view/f-2000-99-001/DisasterANDRecovery.asp
+
+HTTP Error 403: Forbidden
+http://connect.usa.gov/subscribe?email=
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-211460
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-211458
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-211461
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-211459
+
+<urlopen error [Errno 111] Connection refused>
+https://www.usa.govitem-211462
+
+<urlopen error no host given>
+http:///contact.asp
+
+HTTP Error 404: Not Found
+http://ia.ita.doc.gov/ftzpage/index.html
+
+<urlopen error [Errno -2] Name or service not known>
+http://build./feedback.asp
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'otexa.trade.gov.'. (_ssl.c:1056)>
+https://otexa.trade.gov./fta.htm
+
+	 unk 
+Key&method=GetData&datasetname=RegionalIncome&TableName=CA1&LineCode=3&GeoFIPS=DE& Year=2014&ResultFormat=XML&
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govcontact
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govrelated
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govnotices
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govfaq
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govpublications
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govreporting
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govdatabases
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govnews
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govTB_inline?height=200&width=325&inlineId=cew_program_links
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bls.govstartcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://business.usa.govcontent
+
+<urlopen error [Errno -2] Name or service not known>
+http://osec.doc.govcontent
+
+<urlopen error [Errno -2] Name or service not known>
+http://osec.doc.govnav
+
+<urlopen error [Errno -2] Name or service not known>
+https://apps.bea.govmain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.bea.govmain-content
+
+HTTP Error 401: Unauthorized
+http://api.govwizely.com/consolidated_screening_list/search
+
+HTTP Error 401: Unauthorized
+https://www.treasury.gov/resource-center/sanctions/Programs/Pages/13599_list.aspx
+
+<urlopen error [Errno 111] Connection refused>
+http://www.pmddtc.state.gov/compliance/debar_intro.html
+
+<urlopen error [Errno 110] Connection timed out>
+http://www.bis.doc.gov/enforcement/unverifiedlist/unverified_parties.html
+
+<urlopen error [Errno -2] Name or service not known>
+http://pillbox.nlm.nih.govimages
+
+<urlopen error [Errno -2] Name or service not known>
+http://pillbox.nlm.nih.govdata
+
+<urlopen error [Errno -2] Name or service not known>
+http://pillbox.nlm.nih.govapi
+
+<urlopen error [Errno -2] Name or service not known>
+http://pillbox.nlm.nih.govtos
+
+<urlopen error [Errno -2] Name or service not known>
+http://pillbox.nlm.nih.govdisclaimer
+
+<urlopen error [Errno -2] Name or service not known>
+http://pillbox.nlm.nih.govskipnav
+
+<urlopen error [Errno 111] Connection refused>
+https://www.federalregister.govmain
+
+HTTP Error 404: Not Found
+http://graphical.weather.gov/careers.php
+
+HTTP Error 404: Not Found
+http://www.nws.noaa.gov/mdl/degrib/txtview.php?file=degrib.txt&dir=base
+
+<urlopen error [Errno -2] Name or service not known>
+http://forecasts.weather.gov/cgi-bin/nwsexit.pl?url=http://tech.groups.yahoo.com/group/NDFD_SOAP_Service/
+
+HTTP Error 300: Multiple Choices
+http://www.weather.gov/forecasts/graphical/docs/ndfdSRS.htm#gridParams
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govxml_changes
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govnonSOAP
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govdegrib
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govuse_it
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govXML_contents
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govgenerate_it
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govfrequency
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govwhy
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govwhat
+
+HTTP Error 404: Not Found
+http://mag.ncep.noaa.gov/NCOMAGWEB/appcontroller
+
+<urlopen error [Errno -2] Name or service not known>
+http://graphical.weather.govcontents
+
+HTTP Error 404: Not Found
+http://en.wikipedia.org//en.m.wikipedia.org/w/index.php?title=Mashup_(web_application_hybrid)&mobileaction=toggle_view_mobile
+
+<urlopen error [Errno 110] Connection timed out>
+http://sw.deri.org/2009/09/financial-data/
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgcite_ref-sw.deri.org_6-1
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgcite_ref-sw.deri.org_6-0
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgcite_ref-holmes_3-1
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgcite_ref-holmes_3-0
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgcite_note-sw.deri.org-6
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgcite_note-holmes-3
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgArchitectural_aspects_of_mashups
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgBusiness_mashups
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgMashups_versus_portals
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgData_quality
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgAbstraction_levels
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgObject_identity_and_separate_schemata
+
+	 unk 
+http://en.wikipedia.orgText–data_mismatch
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgData_integration_challenges
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgWeb_resources
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgHistory_2
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgMashup_enabler
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgFunctions
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgData_types
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgBy_API_type
+
+<urlopen error [Errno -2] Name or service not known>
+http://en.wikipedia.orgTypes_of_mashup
+
+HTTP Error 403: Forbidden
+https://www.jstor.org/action/doBasicSearch?Query=%22Mashup%22+web+application+hybrid&acc=on&wc=on
+
+<urlopen error [Errno 111] Connection refused>
+https://www.gsa.govpage-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.gsa.govsearch-gsa
+
+<urlopen error [Errno 111] Connection refused>
+https://www.gsa.govper-diem
+
+HTTP Error 404: Not Found
+http://trade.gov/javascript:ok2submit();
+
+HTTP Error 404: Not Found
+http://www.buyusa.gov/home/worldwide_us.html
+
+HTTP Error 400: Bad Request
+http://otexa.trade.gov./growamerica/growamerica.htm
+
+HTTP Error 404: Not Found
+http://trade.gov/mas/ian/tradeagreements/index.asp
+
+HTTP Error 400: Bad Request
+http://esel.trade.gov/esel/groups/public/documents/web_resources/javascript:ok2submit();
+
+HTTP Error 403: Forbidden
+http://export.gov/FTA/ftatarifftool/index.asp
+
+<urlopen error [Errno 111] Connection refused>
+https://trade.govenforcement
+
+<urlopen error [Errno 111] Connection refused>
+https://trade.govindustry
+
+<urlopen error [Errno 111] Connection refused>
+https://trade.govmarkets
+
+<urlopen error [Errno 111] Connection refused>
+https://trade.govous
+
+HTTP Error 500: Internal Server Error
+http://tpis1.trade.gov/TPIS_PUBLIC/tpis_disclaimer_generic.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://buy.tableau.comserver
+
+<urlopen error [Errno -2] Name or service not known>
+https://buy.tableau.comonline
+
+<urlopen error [Errno -2] Name or service not known>
+https://community.tableau.comj-main
+
+<urlopen error [Errno -2] Name or service not known>
+https://public.tableau.commain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://tc19.tableau.commain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://tc-europe19.tableau.commain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://tc18.tableau.commain-content
+
+HTTP Error 404: Not Found
+https://research.tableau.com//www.tableau.com
+
+<urlopen error [Errno -2] Name or service not known>
+https://research.tableau.commain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://trust.tableau.compast-incidents
+
+<urlopen error [Errno -2] Name or service not known>
+https://trust.tableau.comupdates-dropdown-atom
+
+<urlopen error [Errno -2] Name or service not known>
+https://trust.tableau.comupdates-dropdown-sms
+
+<urlopen error [Errno -2] Name or service not known>
+https://trust.tableau.comupdates-dropdown-email
+
+HTTP Error 404: Not Found
+http://digg.com/submit?url=https://www.justice.gov/opcl/privacy-act-1974&title=Privacy%20Act%20of%201974
+
+<urlopen error [Errno 111] Connection refused>
+https://justice.govmain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://oig.justice.govcontent
+
+HTTP Error 404: Not Found
+http://digg.com/submit?url=https://www.justice.gov/oip&title=Office%20of%20Information%20Policy
+
+HTTP Error 404: Not Found
+http://www.foia.gov/javascript:setAgencyComponent();
+
+HTTP Error 404: Not Found
+http://trade.gov/ia/../index.asp
+
+HTTP Error 404: Not Found
+http://www.ustr.gov/about-us/press-office/reports-and-publications/2013/SPS-report
+
+	 unk 
+http://www.usitc.govjavascript:void(0)
+
+HTTP Error 403: Forbidden
+https://2016.export.gov/../advocacy/eg_main_022762.asp
+
+<urlopen error [Errno -2] Name or service not known>
+http://search.export.govcontent
+
+HTTP Error 404: Not Found
+http://www.trade.gov/promotingtrade/javascript:ok2submit();
+
+HTTP Error 404: Not Found
+http://www.ita.doc.gov/itac/
+
+HTTP Error 400: Bad Request
+https://docs.wto.org/dol2fe/Pages/FE_Search/javascript:__doPostBack('ctl00$FooterNavigationWUC$lnkGuideToDocumentation','')
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+http://www.weibo.com/wto
+
+<urlopen error [Errno -2] Name or service not known>
+http://onlinebookshop.wto.orgsujetTab
+
+<urlopen error [Errno -2] Name or service not known>
+http://onlinebookshop.wto.orgcategoryTab
+
+<urlopen error [Errno -2] Name or service not known>
+http://onlinebookshop.wto.orgmenu
+
+<urlopen error [Errno -2] Name or service not known>
+http://onlinebookshop.wto.orgskip
+
+	 unk 
+en
+
+HTTP Error 404: Not Found
+https://www.trade.gov/foia/file:///H:/GC/FOIADOCS/efoia.html
+
+HTTP Error 404: Not Found
+http://www.usdoj.gov/oip/foiastat.htm
+
+HTTP Error 404: Not Found
+http://www.doc.gov/oebam/15cfrpart4.htm
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.gov_Third_Party_Websites
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.gov_International_Trade_Administration
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.gov_Security_Notice
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.gov_Cookies
+
+<urlopen error [Errno 111] Connection refused>
+https://www.trade.gov_Privacy_Policy
+
+HTTP Error 404: Not Found
+https://www.treasury.gov/news/press-releases/sm799
+
+<urlopen error [Errno 111] Connection refused>
+https://home.treasury.govmain-content
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81u
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81t
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81s
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81r
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81q
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81p
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81o
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81n
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81m
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81l
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81k
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81j
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81i
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81h
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81g
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81f
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81e
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81d
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81c
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81b
+
+<urlopen error [Errno -2] Name or service not known>
+https://enforcement.trade.gov81a
+
+HTTP Error 403: Forbidden
+http://namissvr.nam.org/namissvr/mi/invoice.aspx
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+https://www.themanufacturinginstitute.org/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.creatorswanted.org1503901975357-2671d0ed-73ff
+
+<urlopen error [Errno 111] Connection refused>
+https://www.creatorswanted.org1503901975149-1e11d43c-bb65
+
+<urlopen error [Errno 111] Connection refused>
+https://www.creatorswanted.org1503909515330-e2b84f36-80d6
+
+<urlopen error [Errno 111] Connection refused>
+https://www.creatorswanted.org1503909515098-73e0f77b-3148
+
+<urlopen error [Errno 111] Connection refused>
+https://www.creatorswanted.org1503909514835-faa8c183-7e80
+
+<urlopen error [Errno 111] Connection refused>
+https://www.creatorswanted.orgvc_images-carousel-1-1571492949
+
+HTTP Error 404: Not Found
+http://manufacturersmarketplace.us/partnerships/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nam.orgcontent
+
+HTTP Error 520: Origin Error
+https://www.mfgday.com/email/
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse5
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse4
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse3
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse2
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse1
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse0
+
+	 unk 
+https://www.mercer.comjavascript:void(0)
+
+HTTP Error 403: Forbidden
+http://www.mercer.us/what-we-do/wealth-and-investments.html
+
+HTTP Error 403: Forbidden
+https://www.uk.mercer.com/
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://ebizp76.fmanet.org/PersonifyEbusiness/Store/Bending-Basics/ProductDetail/317595380
+
+<urlopen error [Errno -2] Name or service not known>
+http://connect.fmanet.orgLogo
+
+<urlopen error [Errno -2] Name or service not known>
+http://connect.fmanet.orgMPContentArea
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://store.fmanet.org/personifyebusiness/Events/FMAEventCalendar.aspx
+
+HTTP Error 404: Not Found
+http://jobs.fmanet.org//www.communitybrands.com/products/ym-careers/job-board-software?utm_source=ymcareers&utm_medium=logo
+
+<urlopen error [Errno 111] Connection refused>
+https://www.e-ci.comheader
+
+HTTP Error 400: Bad Request
+http://maps.google.com?q=2301 S. Martin Luther King Drive Chicago, IL 60616 United States
+
+<urlopen error [Errno 110] Connection timed out>
+http://www.mastercuttool.com/
+
+HTTP Error 403: Bad Behavior
+http://www.askoinc.com/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/NBT-Foundation/DonateNBT/CashProductId/108551
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.sme.org
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'makerbot3d.asia'. (_ssl.c:1056)>
+http://makerbot3d.asia/korea.html
+
+<urlopen error [Errno 111] Connection refused>
+https://www.stratasys.co.krhero-carousel
+
+<urlopen error [Errno -2] Name or service not known>
+https://stratasys.hubs.vidyard.comskip-to-content
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://upload.stratasysdirect.com/secure-file-upload
+
+<urlopen error [Errno 111] Connection refused>
+https://www.makerbot.comgenesis-footer-widgets
+
+<urlopen error [Errno 111] Connection refused>
+https://www.makerbot.comgenesis-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.makerbot.com0
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.stratasys.comcontent
+
+HTTP Error 403: Forbidden
+http://www.solid-scape.com/
+
+<urlopen error [Errno -2] Name or service not known>
+http://investors.stratasys.commain-menu
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+http://www.adityabirla.com/
+
+<urlopen error [Errno -2] Name or service not known>
+http://investors.novelis.comemail
+
+<urlopen error [Errno -2] Name or service not known>
+http://investors.novelis.comprint
+
+<urlopen error [Errno 111] Connection refused>
+https://www.essentialaccessibility.comtop
+
+<urlopen error [Errno 111] Connection refused>
+https://www.essentialaccessibility.comcollapseThree
+
+<urlopen error [Errno 111] Connection refused>
+https://www.essentialaccessibility.comcollapseTwo
+
+<urlopen error [Errno 111] Connection refused>
+https://www.essentialaccessibility.comcollapseOne
+
+<urlopen error [Errno -2] Name or service not known>
+https://investors.merck.comforwardStatement
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercknewsroom.com/company-statements/all/all/Company-Statements
+
+<urlopen error [Errno -2] Name or service not known>
+https://investors.merck.commaincontent
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+http://www.msd-korea.com/
+
+	 unk 
+http://www.businesswire.com/portal/site/home/online-newsrooms/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.com4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.com3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.com2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.com1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.comebola-infocenter
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.comdiabetes-infocenter
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.comoncology-infocenter
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.comcompany-statements/all/all/Company-Statements
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.comnews-releases/all/all/all
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.comhamburger
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commenu
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.mrknewsroom.comjavascript:extLinkConduct('http://www.msd.com/about/how-we-operate/code-of-conduct/home.html');
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.com_
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.mrknewsroom.comjavascript:extLink4('http://www.msd.com/contact/contacts.html');
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-42
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-39
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.mrknewsroom.com\#SocialMedia
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-37
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-35
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-34
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.mrknewsroom.comjavascript:extLinkCR('http://www.msdresponsibility.com');
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-33
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-31
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-30
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-28
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-23
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-22
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-19
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-16
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-15
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-14
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-13
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-12
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-11
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-9
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.mrknewsroom.comjavascript:extLinkPrivacy('http://msd.com/privacy/cross-border-privacy-policy/');
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-8
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-6
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-7
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-5
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mrknewsroom.commm-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://merckformothers.comwho-we-are.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://merckformothers.comour-work.html
+
+<urlopen error [Errno 111] Connection refused>
+https://merckformothers.comcarousel-example-generic
+
+<urlopen error [Errno 111] Connection refused>
+https://merckformothers.comsearch
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merckhelps.comsettings
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merckhelps.commessages
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merckhelps.comprofile
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merckhelps.comhome
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.merckhelps.comJavaScript:extLinkMH('https://www.medicineassistancetool.org/');
+
+	 unk 
+https://www.merckhelps.comjavascript:__doPostBack('ctl00$herocontainer_holder$btnMore','')
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merck-animal-health.commodal_healthy_animals
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merck-animal-health.comfragment-bp4vrmsb-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merck-animal-health.comfragment-bp4vrmsb-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merck-animal-health.com_
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merck-animal-health.commenu
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merck-animal-health.cominline1
+
+HTTP Error 404: Not Found
+https://www.merckmanuals.com//privacy.truste.com/privacy-seal/validation?rid=11c1aa82-b7e7-4a2f-b02e-ba935e661720
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merckmanuals.commission
+
+HTTP Error 404: Not Found
+https://www.merckengage.com//privacy.truste.com/privacy-seal/validation?rid=0a0fd821-0cd2-443b-99ea-9e96f2ccbee9
+
+HTTP Error 404: Not Found
+https://www.merckconnect.com//privacy.truste.com/privacy-seal/validation?rid=343d5d70-40be-4ab1-8853-82bfbd0fe8f2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.merckconnect.commain
+
+HTTP Error 404: Not Found
+https://www.arielcorp.com/javascript:__doPostBack('ctl00$siteWideToolbar$menuToolbarLoginControl$ForgotButton','')
+
+HTTP Error 400: Bad Request
+http://www.akcoatings.com/sitemap
+
+HTTP Error 404: Not Found
+http://ir.aksteel.com//www.aksteel.com/sitemap
+
+<urlopen error [Errno -2] Name or service not known>
+http://ir.aksteel.commain-menu
+
+HTTP Error 404: Not Found
+https://careers.aksteel.com//www.aksteel.com/sitemap
+
+HTTP Error 403: Unknown origin: 'cmsservice.smashfly.com'
+https://cmsservice.smashfly.com/api/jobs/v1/jobs/hZtAUIBJAtYt3u6LLr6IZdwbhDKsiBbAEKYARQZu05MzvmQY-I5G0phoExI0rosgm9AzlZNb3NI1
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.aksteel.compolygonSearchContainer
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.aksteel.comtravelTimeSearchContainer
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.aksteel.comradiusSearchContainer
+
+<urlopen error [Errno -2] Name or service not known>
+https://careers.aksteel.comsub-menu
+
+HTTP Error 401: Unauthorized
+http://aksteel.upwardsites.com/about-us/locations/ak-coal
+
+<urlopen error [Errno -2] Name or service not known>
+https://ir.aksteel.commain-menu
+
+HTTP Error 400: Bad Request
+https://www.akcoatings.com/sitemap
+
+<urlopen error [Errno 111] Connection refused>
+https://www.akcoatings.commain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.aksteel.euform-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronos.camaincontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://fr.kronos.camaincontent
+
+HTTP Error 403: Forbidden
+https://www.kronos.co.uk/trademarks
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronos.co.ukmaincontent
+
+HTTP Error 403: Forbidden
+https://nl.kronosglobal.be/handelsmerken-die-eigendom-zijn-van-kronos-incorporated-van-een-gerelateerd-bedrijf
+
+<urlopen error [Errno -2] Name or service not known>
+https://nl.kronosglobal.bemaincontent
+
+HTTP Error 403: Forbidden
+https://www.kronosglobal.be/marques-commerciales-appartenant-kronos-incorporated-ou-une-societe-affiliee
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronosglobal.bemaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronosglobal.demaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronosglobal.frmaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronosglobal.nlmaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronos.com.aumaincontent
+
+HTTP Error 403: Forbidden
+https://www.kronos.in/trademarks
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronos.inmaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.kronos.cnmaincontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://www.kronos.comKronos Talent Management Division
+
+	 unk 
+https://careers-clickbond.icims.comjavascript:;
+
+	 unk 
+https://careers-clickbond.icims.comjavascript:void(0);
+
+HTTP Error 403: Forbidden
+https://member.nbaa.org/prodev/cam/study-guide/
+
+<urlopen error [Errno 111] Connection refused>
+https://nbaa.orgskip-to-content
+
+HTTP Error 404: Not Found
+https://www.berkshireassociates.com//www.berkshireassociates.com?hsLang=en
+
+HTTP Error 404: Not Found
+http://register.berkshireassociates.com/training/register/../../info/contact.aspx
+
+HTTP Error 404: Not Found
+https://usa.healthcare.siemens.com/en-us/terms-of-use
+
+<urlopen error [Errno -2] Name or service not known>
+https://usa.healthcare.siemens.comtop
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1056)>
+http://www.sea.siemens.com/us/Industry_Solutions/Marine/Pages/Marine-Home.aspx
+
+<urlopen error [Errno 111] Connection refused>
+https://www.industry.siemens.comcontent
+
+HTTP Error 400: Bad Request
+http://ocsp.pki-services.siemens.com/
+
+HTTP Error 404: Not Found
+https://www.npe.org/javascript:;
+
+<urlopen error [Errno 111] Connection refused>
+https://www.refocussummit.orgmain
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.carpetrecovery.org
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.erema.net
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://www.plasticpipe.org
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+https://www.plastics.ca
+
+<urlopen error [Errno 111] Connection refused>
+https://www.sustainability.4spe.org/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.plastics.americanchemistry.com'. (_ssl.c:1056)>
+https://www.plastics.americanchemistry.com/
+
+<urlopen error [Errno 104] Connection reset by peer>
+https://plasticsindustry.org/terms-use
+
+HTTP Error 500: Internal Server Error
+http://inthehopper.org
+
+	 unk 
+https://access.plasticsindustry.orgsearchresults_ctl01_TemplateBody_WebPartManager1_gwpciProductSearch_ciProductSearch
+
+<urlopen error [Errno -2] Name or service not known>
+https://access.plasticsindustry.orgcontentstart
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500891-6
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500891-5
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500891-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500891-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500891-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500891-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500890-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500890-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500889-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500889-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500888-6
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500888-5
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500888-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500888-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500888-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comtab-pane-500888-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comfooter
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comnavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://ranger.polaris.comcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502116-6
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502116-5
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502116-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502116-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502116-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502116-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502115-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502115-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502114-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502114-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502113-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502113-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comtab-pane-502113-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comfooter
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comnavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://general.polaris.comcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491226-6
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491226-5
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491226-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491226-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491226-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491226-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491225-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491225-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491224-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491224-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491223-6
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491223-5
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491223-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491223-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491223-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comtab-pane-491223-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comfooter
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comnavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://atv.polaris.comcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://offroad.polaris.comtab-pane-494757-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://offroad.polaris.comtab-pane-494757-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://offroad.polaris.comtab-pane-494757-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://offroad.polaris.comfooter
+
+<urlopen error [Errno -2] Name or service not known>
+https://offroad.polaris.comnavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://offroad.polaris.comcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-573810-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-573810-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-573810-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-571057-5
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-571057-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-571057-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-571057-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-571057-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-7
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-6
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-5
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comtab-pane-576402-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comfooter
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comnavigation
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indianmotorcycle.comcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comtab-pane-462204-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comtab-pane-462204-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comtab-pane-471369-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comtab-pane-471369-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comtab-pane-471369-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comtab-pane-336364-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comfooter
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comnavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://slingshot.polaris.comcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://gem.polaris.comtab-pane-339120-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://gem.polaris.comtab-pane-339120-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://gem.polaris.comfooter
+
+<urlopen error [Errno -2] Name or service not known>
+https://gem.polaris.comnavigation
+
+<urlopen error [Errno -2] Name or service not known>
+https://gem.polaris.comcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nam.orgcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse5
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse4
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse3
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse2
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse1
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam.namhealthcare.comcollapse0
+
+HTTP Error 403: Forbidden
+http://www.mercer.com/newsroom/mmb-survey-finds-rising-medical-costs-drive-innovation-in-employer-sponsored-health-plans.html
+
+HTTP Error 403: Forbidden
+https://www.mercer.us/our-thinking/career/the-new-reality-of-pay-transparency.html
+
+	unk
+https://www.mercer.comjavascript:void(0)
+
+HTTP Error 403: Forbidden
+http://www.mercer.us/what-we-do/wealth-and-investments.html
+
+HTTP Error 403: Forbidden
+https://www.uk.mercer.com/
+
+HTTP Error 500: Internal Server Error
+http://www.mercer.com.br/
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://ebizp76.fmanet.org/PersonifyEbusiness/Store/Bending-Basics/ProductDetail/317595380
+
+<urlopen error [Errno -2] Name or service not known>
+http://connect.fmanet.orgLogo
+
+<urlopen error [Errno -2] Name or service not known>
+http://connect.fmanet.orgMPContentArea
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://store.fmanet.org/personifyebusiness/Events/FMAEventCalendar.aspx
+
+HTTP Error 404: Not Found
+http://jobs.fmanet.org//www.communitybrands.com/products/ym-careers/job-board-software?utm_source=ymcareers&utm_medium=logo
+
+Remote end closed connection without response
+https://gala.nutsandboltsfoundation.org/homepage/become-a-sponsor/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.e-ci.comheader
+
+HTTP Error 400: Bad Request
+http://maps.google.com?q=2301 S. Martin Luther King Drive Chicago, IL 60616 United States
+
+<urlopen error timed out>
+http://www.mastercuttool.com/
+
+HTTP Error 403: Bad Behavior
+http://www.askoinc.com/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/NBT-Foundation/DonateNBT/CashProductId/108551
+
+HTTP Error 404: Not Found
+http://www.ccaiweb.com
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.sme.org
+
+<urlopen error [Errno 111] Connection refused>
+https://www.fabtechexpo.comform-exhibit
+
+<urlopen error [Errno -2] Name or service not known>
+https://s36.a2zinc.netProduct
+
+<urlopen error [Errno -2] Name or service not known>
+https://s36.a2zinc.netHome
+
+HTTP Error 400: Bad Request
+http://maps.google.com?q=2301 S. Martin Luther King Drive Chicago, IL, 60616 United States
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/Events/FMA-Event-Calendar/Meeting-Details/productId/327816498
+
+HTTP Error 404: Not Found
+https://www.mfgday.com/email/contact-mfg
+
+HTTP Error 403: Forbidden
+http://www.mercer.com/careers.html
+
+HTTP Error 403: Forbidden
+http://www.mercer.fi/
+
+HTTP Error 403: Forbidden
+https://www.mercer.us/what-we-do/wealth-and-investments/endowments-and-foundations.html
+
+HTTP Error 404: Not Found
+http://www.mercer.dk/vores-viden/javascript:void(0)
+
+HTTP Error 404: Not Found
+http://connect.fmanet.org/participate/ForgotPassword.aspx?vi=9&vt=66d01fc7d777eb2201719980fe347197640b52e6f2ca169bdb1c0bbd9a120532a1e21d612b4a8eaea086eba289d9fbb0eb489c2e5fdc9d77cf83871b2e2ff1ebf6bf3c97ee2b1fec463d1f53de9e7c76ed0bf504187e2e121832068bcc5ee763
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://store.fmanet.org/personifyebusiness/store/store.aspx
+
+HTTP Error 400: Bad Request
+http://maps.google.com?q=2301 South Doctor Martin Luther King Junior Drive Chicago, IL, 60616 United States
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+http://www.nutsandboltsfoundation.org/donate
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://ebizp76.fmanet.org/personifyebusiness/NBTFoundation/DonateNBT.aspx?CashProductId=108551
+
+<urlopen error [Errno -2] Name or service not known>
+https://mexico.fabtechexpo.comsalesreps
+
+<urlopen error [Errno -2] Name or service not known>
+https://mexico.fabtechexpo.comform-exhibit
+
+<urlopen error [Errno 111] Connection refused>
+https://www.thefabricator.comdisqus_thread
+
+<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1056)>
+https://cenmacmetalworks.com/
+
+<urlopen error [Errno -2] Name or service not known>
+https://s36.a2zinc.netPressRelease
+
+<urlopen error [Errno -2] Name or service not known>
+https://s36.a2zinc.netShowSpecial
+
+<urlopen error [Errno -2] Name or service not known>
+https://ci-online.e-ci.comtab-description
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/Store/Product-Details/productId/331102238
+
+HTTP Error 403: Forbidden
+http://raytheon.com/news/news_releases/
+
+HTTP Error 404: Not Found
+http://www.careerwebsite.com/living-in-el-segundo
+
+HTTP Error 404: Not Found
+https://policies.oath.com/us/en/oath/privacy/privacy/index.html
+
+<urlopen error [Errno -2] Name or service not known>
+https://adserver.adtechus.comlocale
+
+<urlopen error [Errno 111] Connection refused>
+https://www.higherlogic.comLogo
+
+<urlopen error [Errno 111] Connection refused>
+https://www.higherlogic.comMPContentArea
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://ebizp76.fmanet.org/personifyebusiness/Membership/JoinFMA/MembershipJoinRegistration.aspx?&ProductId=108435&RateCode=1YR
+
+HTTP Error 403: Forbidden
+http://www.mercer.us/privacy.html
+
+HTTP Error 403: Forbidden
+https://www.mercer.com/newsroom/cost-of-living-2018.html
+
+HTTP Error 404: Not Found
+http://www.mercer.de/javascript:void(0)
+
+HTTP Error 404: Not Found
+http://www.mercer.nl/javascript:void(0)
+
+HTTP Error 404: Not Found
+http://www.se.mercer.com/javascript:void(0)
+
+HTTP Error 403: Forbidden
+http://www.uk.mercer.com/javascript:void(0)
+
+HTTP Error 404: Not Found
+http://www.me.mercer.com/javascript:void(0)
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comprivacy-policy
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comhome
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comcommunities/community-home?CommunityKey=8bbaa56f-925d-4dc9-baaa-9e7243121d90
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comgroupdetails?CommunityKey=a58a6a03-a539-4419-9a59-05265afa3651
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comcarousel-example-generic
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comLogo
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comMPContentArea
+
+<urlopen error [Errno -2] Name or service not known>
+https://academy.higherlogic.comBottomMenu_SkipLink
+
+<urlopen error [Errno -2] Name or service not known>
+https://academy.higherlogic.comLogo
+
+<urlopen error [Errno -2] Name or service not known>
+https://academy.higherlogic.comMPContentArea
+
+<urlopen error [Errno -2] Name or service not known>
+http://community.informz.netgo.aspx?c=directory
+
+HTTP Error 404: Not Found
+http://www.informz.com/company/partners/partner-link/
+
+HTTP Error 403: Forbidden
+http://blog.higherlogic.com/higher-logic-acquires-informz-and-real-magnet
+
+<urlopen error [Errno -2] Name or service not known>
+http://community.informz.netLogo
+
+<urlopen error [Errno -2] Name or service not known>
+http://community.informz.netMPContentArea
+
+HTTP Error 404: Not Found
+http://www.realmagnet.com/about/news
+
+HTTP Error 403: Forbidden
+https://knowledge.hubspot.com//www.hubspot.com/sitemap
+
+HTTP Error 403: Forbidden
+https://www.hubspot.com/services/consulting
+
+HTTP Error 404: Not Found
+http://connect.fmanet.org/participate/ForgotPassword.aspx?vi=9&vt=b88b946cc59cbaabe0542e227cd935dfe83bbe374549806deccc5410ffc616abe3ed539fb192c60a07cb65671be6a74051e229d9ef1740639cbe45a72cbee673a6df79eb28a94a69365a0a1054d01c1dd5e4f0c91a228d053830e74c2466f680fc32af1508cc778efcbb78f651b36068bf92647769ea7293d1e2a7a62f62b774106479390d134a8042497105d193de0bef4348cba78229e5b5932df3b083b6955ac60372a7b87147c76e4a3ade9111f453400101a5e3ad5e0804a1861887f55b
+
+HTTP Error 404: Not Found
+http://www.raytheoncyber.com/legal/privacy_policy/
+
+<urlopen error [Errno -2] Name or service not known>
+http://raytheon.mediaroom.comtop
+
+<urlopen error [Errno -2] Name or service not known>
+http://raytheon.mediaroom.compagetop
+
+<urlopen error [Errno -2] Name or service not known>
+http://investor.raytheon.comtop
+
+<urlopen error [Errno -2] Name or service not known>
+http://investor.raytheon.comtb-menu
+
+<urlopen error [Errno -2] Name or service not known>
+http://investor.raytheon.commenu
+
+<urlopen error [Errno -2] Name or service not known>
+http://investor.raytheon.commain-menu
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comtab-4
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comtab-3
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comtab-2
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comtab-1
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comtab-0
+
+The read operation timed out
+https://rtn.co/2HxKFpl
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comadvanced-search-form-fields
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comtb-menu
+
+<urlopen error [Errno -2] Name or service not known>
+http://jobs.raytheon.comcontent
+
+HTTP Error 404: Not Found
+https://jobs.rayjobs.com/TGWEbHost/{{job.Link}}
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.rayjobs.com0
+
+HTTP Error 404: Not Found
+http://www.raytheon.com.au/legal/privacy_policy/
+
+HTTP Error 403: Forbidden
+http://raytheon.au.mediaroom.com/
+
+HTTP Error 404: Not Found
+http://www.raytheon.co.uk/uk/anti-slavery_statement
+
+<urlopen error [Errno 111] Connection refused>
+https://www.raytheon.commain-content
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://store.fmanet.org/personifyebusiness/Default.aspx?TabId=71&returnurl=%2fPersonifyEbusiness%2fMyAccount.aspx
+
+<urlopen error [Errno 111] Connection refused>
+https://www.fmanet.orgshare
+
+HTTP Error 404: Not Found
+https://www.fabtechexpo.com/terms-of-use
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.sme.org/
+
+HTTP Error 404: Not Found
+https://www.iubenda.com//www.iubenda.com/privacy-policy/53377635/legal
+
+<urlopen error [Errno 111] Connection refused>
+https://mcremote360.comfeatures
+
+<urlopen error [Errno 111] Connection refused>
+https://mcremote360.commachines
+
+<urlopen error [Errno 111] Connection refused>
+https://mcremote360.comabout
+
+<urlopen error [Errno 111] Connection refused>
+https://mcremote360.comcontact
+
+HTTP Error 404: Not Found
+https://shopfloorlasers.com/automation/fiber/./
+
+<urlopen error [Errno 111] Connection refused>
+https://shopfloorlasers.commobile-menu
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mckinsey.comsomeanchor
+
+<urlopen error [Errno -2] Name or service not known>
+https://new.abb.comlanguages_asia-and-oceania
+
+<urlopen error [Errno -2] Name or service not known>
+https://new.abb.comlanguages_middle-east-and-africa
+
+<urlopen error [Errno -2] Name or service not known>
+https://new.abb.comlanguages_americas
+
+<urlopen error [Errno -2] Name or service not known>
+https://new.abb.comlanguages_europe
+
+Remote end closed connection without response
+https://www.nutsandboltsfoundation.org/
+
+Remote end closed connection without response
+https://www.thefabricator.com?page=1872
+
+<urlopen error [Errno 111] Connection refused>
+https://www.nutsandboltsfoundation.orgcamplist
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comsal_d
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comsal_c
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comsal_b
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comsal_a
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comcan_9-11
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comcan_4-8
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comcan_1-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.common_2-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.common_123
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.common_12-34
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.common_1-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.common_1234
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comitu_1-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comitu_3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comitu_2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comitu_1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comitu_123
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comval_j2-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comval_j1-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comval_3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comval_2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comvalpa_1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comvalpa_123
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comop-contacto
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comop-servicios
+
+<urlopen error [Errno 111] Connection refused>
+https://www.centrocitibanamex.comop-nosotros
+
+<urlopen error [Errno -2] Name or service not known>
+https://fabtechmexico20.mapyourshow.com0
+
+<urlopen error [Errno -2] Name or service not known>
+https://fabtechmexico19.mapyourshow.com0
+
+<urlopen error [Errno -2] Name or service not known>
+https://a2zinc.zendesk.comarticle-container
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comdata-controller-and-data-protection-officer
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comyour-rights
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.cominformation-security
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comretention-of-personal-data
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comchildrens-privacy
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comcross-border-transfers-of-personal-data
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comthird-party-recipients-of-personal-data
+
+<urlopen error [Errno 111] Connection refused>
+https://personifycorp.comcategories-of-personal-data-processed-by-personify
+
+<urlopen error [Errno -2] Name or service not known>
+https://fabtechmexico19.mapyourshow.comjq-nav
+
+HTTP Error 400: Bad Request
+http://www.iccaworld.orgwtai://wp/mc;+598 93 599 397
+
+HTTP Error 404: Not Found
+https://goo.gl/2LsbGJ
+
+HTTP Error 404: Not Found
+https://www.ilsf.org/news/ils-announces-venues-world-conferences-drowning-prevention-2021-and-2023-and-lifesaving-world
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://cosparhq.cnes.fr/content/cospar-2022
+
+<urlopen error [Errno -2] Name or service not known>
+http://not available yet
+
+	unk
+http://www.iccaworld.orgjavascript:void(0);
+
+HTTP Error 500: Internal Server Error
+https://www.cie.com.mx/WP
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+https://businessresultsradio.com/fabtech2019/
+
+<urlopen error [Errno 111] Connection refused>
+https://ultimaker.comundefined
+
+HTTP Error 403: Forbidden
+http://www.abb-conversations.com/2017/03/what-you-always-wanted-to-know-about-abb-ability/
+
+	unk
+http://www.praxair.comjavascript:;
+
+<urlopen error [Errno 111] Connection refused>
+https://www.flip180media.comcontent
+
+<urlopen error [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:1056)>
+http://www.tubularsteel.com/
+
+<urlopen error timed out>
+http://www.precisionflamecutting.com
+
+HTTP Error 404: Not Found
+http://fortune.com/fortune500/reliance-steel-aluminum-283/
+
+HTTP Error 400: Bad Request
+https://relianceroots.com/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mcremote360.comfeatures
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mcremote360.commachines
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mcremote360.comabout
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mcremote360.comcontact
+
+HTTP Error 404: Not Found
+http://www.pma.org/../home/terms_and_conditions.asp
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/Store/Product-Details/productId/331228552
+
+HTTP Error 403: Forbidden
+http://raytheon.com/ourcompany/rps/
+
+HTTP Error 404: Not Found
+http://www.raytheon.co.uk/uk/
+
+HTTP Error 404: Not Found
+http://www.raytheon.com.au/au/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comcontainer_38
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comcontainer_41
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comcontainer_617
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comitem-sydney
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comitem-brisbane
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comitem-hobart
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comaws-timeline
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comaws-gallery
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comsection-block-08
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comsection-block-05
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comsection-block-04
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comsection-block-03
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ausawd.comsection-block-02
+
+HTTP Error 404: Not Found
+http://www.careerwebsite.com/job-location/el-segundo/assembler-electronic-sr/4679/13779646/34547
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govtop
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-18
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-17
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-16
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-15
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-14
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-13
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-12
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-11
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-10
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-9
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-8
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-7
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-6
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-5
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-4
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-3
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-2
+
+<urlopen error [Errno 111] Connection refused>
+https://www.ic3.govitem-1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.disabilityequalityindex.orgcontent
+
+<urlopen error [Errno -2] Name or service not known>
+https://connectingvets.radio.commain-content
+
+HTTP Error 404: File not found
+http://raytheon.mediaroom.com/./index.html#menu
+
+HTTP Error 404: Not Found
+http://www.careerwebsite.com/request-demo/
+
+HTTP Error 404: Not Found
+https://www.fifthdomain.com//www.historynet.com/
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtab-4
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtab-3
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtab-2
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtab-1
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtab-0
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comadvanced-search-form-fields
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtb-menu
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comsearch-filters
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comsearch-results-list
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.raytheon.comsocial-links
+
+HTTP Error 404: Not Found
+https://www.oath.com/solutions/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.hiringlab.orgsubscribe
+
+<urlopen error [Errno 111] Connection refused>
+https://www.hiringlab.orgtop
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indeedevents.comcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.indeed.jobsmainContent
+
+HTTP Error 404: Not Found
+https://indeed.zendesk.com/hc/javascript:void();
+
+HTTP Error 404: Not Found
+http://www.higherlogic.com/requests/new
+
+HTTP Error 403: Forbidden
+https://developers.hubspot.com//www.hubspot.com/sitemap/
+
+<urlopen error [Errno -2] Name or service not known>
+https://academy.hubspot.comhsg-nav-2016
+
+<urlopen error [Errno -2] Name or service not known>
+https://academy.hubspot.comacademy-container
+
+HTTP Error 403: Forbidden
+https://blog.hubspot.com//www.hubspot.fr
+
+HTTP Error 404: Not Found
+http://www.informz.com/request-a-demo
+
+HTTP Error 404: Not Found
+http://www.realmagnet.com/request-a-demo
+
+<urlopen error [Errno -2] Name or service not known>
+http://community.informz.netgo.aspx?c=postmessage
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comtab_custom
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comtab_unsubscribe
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comtab_content
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comtab_forms
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.cominProgress
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comArchive
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comUndelete
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comDelete
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comCopy
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comSaveAsTemplate
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comDeactivate
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comActivate
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comTest
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comEdit
+
+<urlopen error [Errno -2] Name or service not known>
+http://content.informz.comReport
+
+<urlopen error [Errno -2] Name or service not known>
+https://community.informz.netLogo
+
+<urlopen error [Errno -2] Name or service not known>
+https://community.informz.netMPContentArea
+
+<urlopen error [Errno -2] Name or service not known>
+https://superforum.higherlogic.comcarousel-testimonials
+
+<urlopen error [Errno -2] Name or service not known>
+https://superforum.higherlogic.comLogo
+
+<urlopen error [Errno -2] Name or service not known>
+https://superforum.higherlogic.comMPContentArea
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comcommunities/community-home?CommunityKey=3d460cf6-cee0-4bec-a7ba-d486c82a7058
+
+HTTP Error 404: Not Found
+https://connect.fmanet.org/participate/ForgotPassword.aspx?vi=9&vt=4bacb5c0c66bb1380d187de485782fc7d67a53c45ae4776b5a32087bada51be9d767d0e5d3b844821245281d68956332ccfb4d52fdb1030a2ff37bcc6c0b376e3418ae2e12e8c1de84760b1ea3e0f5900dc16a81a6b6cb429d6ba9a8888ea55fbee360b39025b140ff0207e06a892791f515218aa188b7a5921843b8cc5e89d7111783d7888c291a67c0c241f873a531fb54a1a16b8fec3ebc8a7f08927981e01e2e7cd9091ad256d25bf910bf3a2ec0
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://ebizp76.fmanet.org/personifyebusiness/Membership/JoinFMA/MembershipJoinRegistration.aspx?&ProductId=108415&RateCode=1YR
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/Store/FABCAST
+
+HTTP Error 404: Not Found
+https://www.mercer.com.au/content/mercer/middle-east-and-africa/zar/javascript:void(0)
+
+HTTP Error 403: Forbidden
+http://www.mercer.us/content/mercer/middle-east-and-africa/zar/ar.html
+
+HTTP Error 403: Forbidden
+https://www.hrdive.com/feeds/news/
+
+HTTP Error 404: Not Found
+http://bit.ly/feedback/
+
+HTTP Error 403: Forbidden
+https://www.industrydive.com/article-reprints/
+
+HTTP Error 404: Not Found
+https://www.uk.mercer.com/javascript:void(0)
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse15
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse14
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse13
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse12
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse11
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse10
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse9
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse8
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse7
+
+<urlopen error [Errno -2] Name or service not known>
+https://abma.namhealthcare.comcollapse6
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse15
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse14
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse13
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse12
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse11
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse10
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse9
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse8
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse7
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse6
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse5
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse4
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse3
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse2
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse1
+
+<urlopen error [Errno -2] Name or service not known>
+https://cama.namhealthcare.comcollapse0
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse15
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse14
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse13
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse12
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comstepname
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse11
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse10
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse9
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse8
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse7
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse6
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse5
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse4
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse3
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse2
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse1
+
+<urlopen error [Errno -2] Name or service not known>
+https://nmma.namhealthcare.comcollapse0
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse15
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse14
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse13
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse12
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse11
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse10
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse9
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse8
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse7
+
+<urlopen error [Errno -2] Name or service not known>
+https://oma.namhealthcare.comcollapse6
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse15
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse14
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse13
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse12
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse11
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse10
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse9
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse8
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse7
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse6
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse5
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse4
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse3
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse2
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse1
+
+<urlopen error [Errno -2] Name or service not known>
+https://wpma.namhealthcare.comcollapse0
+
+HTTP Error 403: Forbidden
+http://www.mercer.us/what-we-do/wealth-and-investments/investment-management-platform.html
+
+HTTP Error 403: Forbidden
+http://www.mercer-digital.com/?utm_source=PR%20Release&utm_campaign=Mercer%20Digital
+
+HTTP Error 404: Not Found
+https://www.mercer.com/newsroom/javascript:void(0)
+
+HTTP Error 404: Not Found
+http://bit.ly/deep-dive/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.prnewswire.comnav-mobile
+
+<urlopen error [Errno 111] Connection refused>
+https://www.littler.commain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://dive.pubmodalForm
+
+HTTP Error 403: Forbidden
+https://www.mercer.us/what-we-do/wealth-and-investments/cfo-research-pension-risk-survey.html
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usevent-menu
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.uswebcasts
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usfinancial-intermediaries
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usnot-for-profit
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usdefined-benefit
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usdefined-contribution
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usinvestments
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.usfeatured
+
+<urlopen error [Errno 111] Connection refused>
+https://www.mercer.uscontactForm
+
+HTTP Error 404: Not Found
+http://www.mercer.us/javascript:void(0)
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/Events/Fabcast-Calendar
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://ebizp76.fmanet.org/personifyebusiness/Membership/JoinFMA/MembershipJoinRegistration.aspx?&ProductId=108414&RateCode=1YR
+
+<urlopen error [Errno 111] Connection refused>
+https://www.econversemedia.comcontact
+
+<urlopen error [Errno 111] Connection refused>
+https://www.econversemedia.comourstory
+
+<urlopen error [Errno 111] Connection refused>
+https://www.econversemedia.comLogo
+
+<urlopen error [Errno 111] Connection refused>
+https://www.econversemedia.comMPContentArea
+
+<urlopen error [Errno 111] Connection refused>
+https://www.asaecenter.orgbanner
+
+<urlopen error [Errno 111] Connection refused>
+https://www.asaecenter.orgtop
+
+HTTP Error 404: Not Found
+http://www.venable.com/nonprofits/events
+
+HTTP Error 403: Bad Behavior
+http://tsae.org/
+
+HTTP Error 403: Forbidden
+http://www.scsae.org/
+
+HTTP Error 403: Forbidden
+http://www.pasae.org/
+
+HTTP Error 404: Not Found
+http://www.nam.org/cmaslc/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.hsae.org/
+
+HTTP Error 403: Forbidden
+http://www.ensync-corp.com/
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+https://info.cq.com/resources-support/resources/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'csaenet.org'. (_ssl.c:1056)>
+http://csaenet.org/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.calsae.org/
+
+<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1056)>
+http://lodestar.asu.edu/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.arksae.net/
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)>
+https://www.asrt.org/
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.aafp.org/
+
+HTTP Error 403: Forbidden
+http://www.501c.com/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.asaecenter.orgsearching
+
+<urlopen error [Errno 111] Connection refused>
+https://www.asaecenter.orgnav
+
+<urlopen error [Errno 111] Connection refused>
+https://www.asaecenter.orgfooter
+
+<urlopen error [Errno 111] Connection refused>
+https://www.asaecenter.orgmain
+
+<urlopen error [Errno -2] Name or service not known>
+https://hug.higherlogic.comBottomMenu_SkipLink
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+302
+https://a.cms.omniupdate.com/10?skin=oucampus&account=skidmore_college&site=dev&action=de&path=/index.pcf
+
+	unk
+http://www.alumni.skidmore.edu/s/1187/index.aspx?sid=1187&gid=1&pgid=1607
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://securelb.imodules.com/s/1187/giving/interior.aspx?sid=1187&gid=1&pgid=2313&cid=3690&appealcode=WEB01
+
+<urlopen error timed out>
+http://ems.skidmore.edu/MasterCalendar/EventDetails.aspx?data=hHr80o3M7J45qSzC2ppMemgcih6%2fm0yGeP8xhG8aka5inB54%2fktLayHm%2bIl4FFMi
+
+	unk
+http://alumni.skidmore.edu/
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.alumni.skidmore.edu/s/1187/start.aspx
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|vi)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|uk)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|es)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|ru)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|pt)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|ko)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|ja)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|iw)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|el)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|fr)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|en)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|nl)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|da)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|cs)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|zh-TW)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|zh-CN)
+
+<urlopen error [Errno -2] Name or service not known>
+http://www.skidmore.edugoogtrans(en|ar)
+
+HTTP Error 404: Not Found
+http://www.realmagnet.com/about/our-partners
+
+HTTP Error 404: Not Found
+https://knowledge.hubspot.com//legal.hubspot.com/privacy-policy
+
+HTTP Error 404: Not Found
+http://www.slideshare.net/www.hubspot.com
+
+HTTP Error 404: Not Found
+http://www.hubspot.com//www.hubspot.fr
+
+HTTP Error 404: Not Found
+https://blog.hubspot.com//offers.hubspot.com/contact-sales
+
+<urlopen error [Errno -2] Name or service not known>
+http://academy.hubspot.comhsg-nav-2016
+
+<urlopen error [Errno -2] Name or service not known>
+http://academy.hubspot.comacademy-container
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.hubspot.compast-incidents
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.hubspot.comsystem-metrics
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.hubspot.comabout-this-site
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.hubspot.comupdates-dropdown-atom
+
+<urlopen error [Errno -2] Name or service not known>
+https://status.hubspot.comupdates-dropdown-support
+
+HTTP Error 404: Not Found
+http://www.cambridgesidegalleria.com/info/parking.cfm
+
+<urlopen error [Errno 111] Connection refused>
+https://www.hubspot.comcontact-numbers-section
+
+HTTP Error 403: Forbidden
+https://br.hubspot.com/company/contact
+
+HTTP Error 403: Forbidden
+https://www.hubspot.es/company/contact
+
+HTTP Error 404: Not Found
+https://www.higherlogic.com//privacy.truste.com/privacy-seal/validation?rid=519dfc29-88a0-46e9-8a51-d532eb3e7c84
+
+HTTP Error 404: Not Found
+https://blog.higherlogic.com//blog.higherlogic.com
+
+<urlopen error [Errno 111] Connection refused>
+https://www.schooltheatre.orgcarousel-example
+
+<urlopen error [Errno 111] Connection refused>
+https://www.schooltheatre.orgLogo
+
+<urlopen error [Errno 111] Connection refused>
+https://www.schooltheatre.orgMPContentArea
+
+HTTP Error 403: Forbidden
+http://blog.higherlogic.com/
+
+HTTP Error 404: Not Found
+http://www.higherlogic.com/hc/en-us
+
+<urlopen error [Errno -2] Name or service not known>
+https://higherlogic.zendesk.comarticle-container
+
+HTTP Error 404: Not Found
+https://www.opera.com//www.opera.com/contact
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity-third-parties
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy-v1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms-v1
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsupport-policy
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsla
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comaup
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.combilling_estimating
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.combilling_overages-and-credits
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.combilling_cycle
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_general
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_law
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_termination
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_indemnity
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_liability
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_warranty
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_links
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_availability
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_communicate
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_infringers
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_enforcement
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_proprietary-rights
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_content-responsibility
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_public-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_ip
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_restrictions
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_user-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_permission
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comwebsite-terms_acceptance
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_changes
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_contact
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_binding-arbitration
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_access-questions
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_access-choices
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_access-rights
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_security
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_transfers
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comeu-us_data
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_customer-responsibilities
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_payments
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_audits-and-certifications
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_monitoring
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_permissions
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_authentication
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_data-transfer
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_data
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_infrastructure
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_best-practices
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_team
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comsecurity_overview
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_info
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_updates
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_control
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_targeted
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_flash
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_other
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_why
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comcookie-policy_what
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_contact-us
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_international
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_security
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_california
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_age-16
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_changes
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_access-and-update
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_choices
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_access
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_payments
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_sharing
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_how-we-use
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comprivacy_information
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_general
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_comarketing
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_confidential-information
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_indemnification
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_damages
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_professional-services
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_support
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_availability
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_warranty
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_term
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_subscription
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_ownership
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_third-party
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_security
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_customer-data
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_services
+
+<urlopen error [Errno 111] Connection refused>
+https://www.intercom.comterms_definitions
+
+HTTP Error 404: Not Found
+https://f5.com/company/policies/trademarks
+
+<urlopen error [Errno 111] Connection refused>
+https://f5.comcontact-us
+
+<urlopen error [Errno 111] Connection refused>
+https://recruit-holdings.comwrap
+
+<urlopen error [Errno 111] Connection refused>
+https://recruit-holdings.combackMenu
+
+<urlopen error [Errno 111] Connection refused>
+https://recruit-holdings.comtoggleSpMenu
+
+<urlopen error [Errno 111] Connection refused>
+https://recruit-holdings.comopenSearch
+
+<urlopen error [Errno 111] Connection refused>
+https://recruit-holdings.comno
+
+HTTP Error 404: Not Found
+http://university.indeed.jobs/javascript:void(0);
+
+HTTP Error 500: Internal Server Error
+http://reviews.greatplacetowork.com/products-services-agreement
+
+<urlopen error [Errno -2] Name or service not known>
+http://blog.indeed.comsearchBox
+
+HTTP Error 404: Not Found
+http://www.raytheoncyber.com/cyber/legal/
+
+HTTP Error 404: Not Found
+https://www.ebay.com/itm/DEF-CON-China-DCCN-1-0-Human-badge-lanyard-program-and-convention-envelope
+
+<urlopen error [Errno 111] Connection refused>
+https://www.defcon.orgmaincontent
+
+<urlopen error [Errno 111] Connection refused>
+https://ctftime.orgrecent_members
+
+<urlopen error [Errno 111] Connection refused>
+https://ctftime.orgrating_2017
+
+<urlopen error [Errno 111] Connection refused>
+https://ctftime.orgrating_2018
+
+<urlopen error [Errno 111] Connection refused>
+https://ctftime.orgrating_2019
+
+<urlopen error [Errno 111] Connection refused>
+https://www.raytheon.comtop
+
+HTTP Error 410: Gone
+https://hub.fifthdomain.com/whitepapers/clkn/http/hub.c4isrnet.com/whitepapers
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam04.safelinks.protection.outlook.comwrapper
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam04.safelinks.protection.outlook.com0
+
+<urlopen error [Errno -2] Name or service not known>
+https://nam04.safelinks.protection.outlook.commain
+
+HTTP Error 404: Not Found
+https://www.defensenews.com//www.historynet.com/
+
+HTTP Error 404: Not Found
+http://www.raytheoncyber.com/cyber/news/feature/ahead-breach
+
+HTTP Error 404: Not Found
+http://www.careerwebsite.com/products/mobile-event-app/
+
+HTTP Error 404: Not Found
+http://www.raytheon.com/news/technology_today/2014_i1/
+
+<urlopen error [Errno -2] Name or service not known>
+http://digital.affinityincmagazine.comHelpTabsFAQContent
+
+<urlopen error [Errno -2] Name or service not known>
+http://digital.affinityincmagazine.comHelpTabsTopMenuContent
+
+<urlopen error [Errno -2] Name or service not known>
+http://digital.affinityincmagazine.comHelpTabsLeftMenuContent
+
+<urlopen error [Errno -2] Name or service not known>
+http://digital.affinityincmagazine.comHelpTabsQuickMenuContent
+
+<urlopen error [SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1056)>
+http://www.diversityallianceforscience.com/west
+
+HTTP Error 404: Not Found
+http://www.stthomas.edu/workplaceforum
+
+<urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1056)>
+http://www.nationwide.com/about-us/supplier-diversity.jsp
+
+HTTP Error 404: Not Found
+http://www.cvssuppliers.com/supplier-diversity.com
+
+<urlopen error [Errno -2] Name or service not known>
+http://affinityincmag.advanced-pub.comHelpTabsFAQContent
+
+<urlopen error [Errno -2] Name or service not known>
+http://affinityincmag.advanced-pub.comHelpTabsTopMenuContent
+
+<urlopen error [Errno -2] Name or service not known>
+http://affinityincmag.advanced-pub.comHelpTabsLeftMenuContent
+
+<urlopen error [Errno -2] Name or service not known>
+http://affinityincmag.advanced-pub.comHelpTabsQuickMenuContent
+
+HTTP Error 404: Not Found
+http://www.aglcc.org
+
+HTTP Error 400: Bad Request
+http://affinityincmag.advanced-pub.com/javascript:Jump to page: 21
+
+HTTP Error 403: Forbidden
+https://muckrack.com/patricia-traina
+
+HTTP Error 500: Internal Server Error
+https://cms.megaphone.fm/channel/lockedongiants
+
+HTTP Error 400: Bad Request
+https://www.google.com/maps/search/?api=1&query=1015 Half Street, SE, Suite 200, Washington, D.C. 20003
+
+<urlopen error [Errno -2] Name or service not known>
+https://publicfiles.fcc.govdocs
+
+<urlopen error [Errno -2] Name or service not known>
+https://publicfiles.fcc.govdetails
+
+<urlopen error [Errno -2] Name or service not known>
+https://publicfiles.fcc.govbrowse-by-category
+
+<urlopen error [Errno -2] Name or service not known>
+https://publicfiles.fcc.govskiptarget3
+
+<urlopen error [Errno -2] Name or service not known>
+https://publicfiles.fcc.govskiptarget1
+
+HTTP Error 404: Not Found
+https://www.disabilityequalityindex.org/resources/business-case/
+
+<urlopen error [Errno 111] Connection refused>
+https://www.aapd.comheader
+
+<urlopen error [Errno 111] Connection refused>
+https://www.aapd.commain
+
+<urlopen error [Errno 111] Connection refused>
+https://disabilityin.orgcontent
+
+<urlopen error [Errno 111] Connection refused>
+https://www.minister.defence.gov.aumain-content
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.autop
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.auabout
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.aumagazines
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.auservices/magazines-and-advertising
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.auprojects
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.auworkStart
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.aucontact
+
+<urlopen error [Errno 111] Connection refused>
+https://www.boylen.com.auhome
+
+<urlopen error [Errno -2] Name or service not known>
+https://jobs.raytheon.comtop
+
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.raytheon.com.au'. (_ssl.c:1056)>
+https://www.raytheon.com.au/gradx
+
+HTTP Error 404: Not Found
+http://www.raytheon.co.uk/legal/privacy_policy/
+
+HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+http://www.nbtfoundation.org/donate
+
+[Errno 104] Connection reset by peer
+http://mfgday.com/resources
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://store.fmanet.org/PersonifyEbusiness/Events/FMA-Event-Calendar/Meeting-Details/productId/327815835
+
+HTTP Error 404: Not Found
+http://www.pma.org/../news/
+
+HTTP Error 404: Not Found
+https://www.iubenda.com//www.iubenda.com/privacy-policy/75661178/cookie-policy
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comretrieving-a-single-call
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comform-submission
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comtext-message-received
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comcall-modified
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.compost-call-webhook
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.compre-call
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comconfiguring-call-sources
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comsource-tracker-call-sources
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comsession-tracker-call-sources
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comrequesting-a-number
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comconfiguring-call-flows
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comauthentication
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comintegrations
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comconfiguring-integrations
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comterminology
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comtime-zones
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comcall-tags
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comoutbound-caller-ids
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comsearching
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comfield-selection
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comfiltering
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comsorting
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.compagination
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comauthorization
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comrate-limiting
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comlisting-all-conversations
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comsummarizing-call-data
+
+<urlopen error [Errno -2] Name or service not known>
+http://apidocs.callrail.comlisting-all-calls
+
+<urlopen error [Errno -2] Name or service not known>
+http://status.callrail.compast-incidents
+
+<urlopen error [Errno -2] Name or service not known>
+http://status.callrail.comsystem-metrics
+
+<urlopen error [Errno -2] Name or service not known>
+http://status.callrail.comabout-this-site
 

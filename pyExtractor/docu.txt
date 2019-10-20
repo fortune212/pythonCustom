@@ -1,4 +1,4 @@
-#SpecialAtt.txt - This is supposed to be the urls that doesnt have anchor tags
+#SpecialAtt.txt - This is supposed to be the urls that doesn't have anchor tags
                 - Which means they can't be parsed by beautiful soup
 
 #SpecialAttFilter.txt - This is supposed to be SpecialAtt.txt that might not be needed (e.g css, image)     
